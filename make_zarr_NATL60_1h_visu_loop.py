@@ -13,7 +13,7 @@ ds=xr.open_mfdataset('/store/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM16
 
 compressor = zarr.Blosc(cname='zstd', clevel=3, shuffle=2)                                                
 encoding = {vname: {'compressor': compressor} for vname in ds.variables}                                  
-ds.to_zarr(store='/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/test_zarr', encoding=encoding)
+ds.to_zarr(store='/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165-SSH-1h', encoding=encoding)
 zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165-SSH-1h',mode='a')
 
 for m in np.arange(11,13):
@@ -32,4 +32,5 @@ for m in np.arange(1,10):
 
 
 
-
+ds_z = xr.open_zarr('/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165-SSH-1h')
+ds_z
