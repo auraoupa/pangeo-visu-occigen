@@ -16,7 +16,7 @@ compressor = zarr.Blosc(cname='zstd', clevel=3, shuffle=2)
 #ds.to_zarr(store='/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165-SSH-1h-temp', encoding=encoding)
 #zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165-SSH-1h-temp',mode='a')
 
-for m in np.arange(12,13):
+for m in np.arange(11,13):
 	print('beginning month ',str(m))
 	ds=xr.open_mfdataset('/store/albert7a/NATL60/NATL60-CJM165-S/1h/SSH/NATL60-CJM165_y2012m'+str(m)+'d??.1h_SSH.nc', parallel=True, concat_dim='time_counter',chunks={'y':10,'x':10})
 	encoding = {vname: {'compressor': compressor} for vname in ds.variables}
