@@ -37,12 +37,12 @@ for m in np.arange(1,13):
 !cp -r /scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2009m07 /scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSU-1h
 !cp -r /scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSV-1h-y2009m07 /scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSV-1h
 
-zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSU-1h',mode='a')
+zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSV-1h',mode='a')
 
 for m in np.arange(8,13):
 	print('beginning month ',str(m))
         mm=str(m).zfill(2)
-	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2009m'+str(mm),mode='r')
+	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSV-1h-y2009m'+str(mm),mode='r')
 	for key in [k for k in zr.array_keys() if k not in ['nav_lat','nav_lon']]:
 	        zrtot[key].append(zr[key])
 	print('ending month ',str(m))
@@ -51,7 +51,7 @@ for m in np.arange(8,13):
 for m in np.arange(1,7):
 	print('beginning month ',str(m))
         mm=str(m).zfill(2)
-	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2010m'+str(mm),mode='r')
+	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSV-1h-y2010m'+str(mm),mode='r')
 	for key in [k for k in zr.array_keys() if k not in ['nav_lat','nav_lon']]:
 	        zrtot[key].append(zr[key])
 	print('ending month ',str(m))
