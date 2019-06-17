@@ -39,7 +39,7 @@ for m in np.arange(1,13):
 
 zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSU-1h',mode='a')
 
-for m in np.arange(8,13):
+for m in np.arange(9,13):
 	print('beginning month ',str(m))
         mm=str(m).zfill(2)
 	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2009m'+str(mm),mode='r')
@@ -58,10 +58,11 @@ for m in np.arange(1,7):
 
 
 zrtot=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSU-1h',mode='a')
-for m in np.arange(8,13):
+for m in np.arange(9,13):
 	print('beginning month ',str(m))
         mm=str(m).zfill(2)
 	zr=zarr.open('/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2009m'+str(mm),mode='r')
+#	zr=zarr.open('/store/albert7a/eNATL60/zarr/zarr_eNATL60-BLBT02-SSU-1h-y2009m'+str(mm),mode='r')
 	for key in [k for k in zr.array_keys() if k not in ['nav_lat','nav_lon']]:
 	        zrtot[key].append(zr[key])
 	print('ending month ',str(m))
@@ -74,6 +75,13 @@ for m in np.arange(1,7):
 	for key in [k for k in zr.array_keys() if k not in ['nav_lat','nav_lon']]:
 	        zrtot[key].append(zr[key])
 	print('ending month ',str(m))
+
+ds=xr.open_mfdataset('/scratch/cnt0024/hmg2840/albert7a/eNATL60/eNATL60-BLBT02-S/1h/surf/eNATL60-BLBT02_y2009m07d01-y2010m06d30.1h_time.nc', parallel=True, concat_dim='time_counter')
+
+encoding = {vname: {'compressor': compressor} for vname in ds.variables}
+
+ds.to_zarr(store='/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/zarr_time', encoding=encoding)
+
 
 name='/scratch/cnt0024/hmg2840/albert7a/eNATL60/zarr/eNATL60-BLBT02-SSU-1h'
 variable='time_counter'
