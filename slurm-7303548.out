@@ -1,0 +1,1639 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:35166'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:38997'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:45055'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:37413'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:38210'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:44259'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:38399'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:44509'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:32975'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:40524'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:44514'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:42828'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:37933'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:44282'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:44426'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:41866'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:39169'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:36796'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:37934'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:43053'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:33352'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:40430'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:35809'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:41448'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:45009'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:33487'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:35818'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.203:38879'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44714
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:43679
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:38863
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:35843
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:46490
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44714
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:43679
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:38863
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:39308
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:35843
+distributed.worker - INFO -          dashboard at:         172.30.8.203:41820
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:34621
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44652
+distributed.worker - INFO -          dashboard at:         172.30.8.203:43642
+distributed.worker - INFO -          dashboard at:         172.30.8.203:36131
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:35967
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:39308
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:46490
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:43654
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:37070
+distributed.worker - INFO -          dashboard at:         172.30.8.203:38022
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:34621
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:35967
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:33312
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:34079
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:43654
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44652
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:37070
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.203:43672
+distributed.worker - INFO -          dashboard at:         172.30.8.203:33902
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:36420
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44978
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44316
+distributed.worker - INFO -          dashboard at:         172.30.8.203:44562
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:34079
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:33312
+distributed.worker - INFO -          dashboard at:         172.30.8.203:41079
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.203:33489
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:45165
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:42591
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:37452
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:41867
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:33422
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:34362
+distributed.worker - INFO -          dashboard at:         172.30.8.203:39494
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:38795
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44055
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:36420
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          dashboard at:         172.30.8.203:34325
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44316
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44978
+distributed.worker - INFO -          dashboard at:         172.30.8.203:45987
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:38633
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:44364
+distributed.worker - INFO -          dashboard at:         172.30.8.203:32770
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:39060
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:45165
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:37452
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:41867
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:33422
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:38795
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44055
+distributed.worker - INFO -          dashboard at:         172.30.8.203:33958
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          dashboard at:         172.30.8.203:45054
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:38633
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:44364
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:42591
+distributed.worker - INFO -          dashboard at:         172.30.8.203:44556
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:35880
+distributed.worker - INFO -          dashboard at:         172.30.8.203:37360
+distributed.worker - INFO -          dashboard at:         172.30.8.203:45943
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.8.203:39928
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.8.203:33634
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-6x86g367
+distributed.worker - INFO -          dashboard at:         172.30.8.203:36135
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          dashboard at:         172.30.8.203:45767
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.8.203:39705
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:34362
+distributed.worker - INFO -          dashboard at:         172.30.8.203:42562
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.203:36744
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:35880
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:39060
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-54lpwo4n
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-gyizf_4_
+distributed.worker - INFO -          dashboard at:         172.30.8.203:44993
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-__zp2vq6
+distributed.worker - INFO -          dashboard at:         172.30.8.203:33176
+distributed.worker - INFO -          dashboard at:         172.30.8.203:37792
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-ao7lbz2c
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-pnfmk2ml
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-wrjjnpvb
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-w9dm09qg
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-2hossc6p
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-o8ur60ou
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-bsglzdz2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-mlwf34vu
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-ko7n91rq
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-zbxkjan8
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-n66cyc6z
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-exw0tmvy
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-6cydmawx
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-ayi81a8i
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-gj8vmjev
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-bdzjjsq5
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-alz56dyt
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-gxszmwt2
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-f58ufkk3
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-qrckerjj
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-o878kr0e
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-9ffxokfx
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-smq25_ep
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-bnqgwi4g
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.utils_perf - INFO - full garbage collection released 11.54 MB from 774 reference cycles (threshold: 10.00 MB)
+*** Error in `/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python': double free or corruption (!prev): 0x00002b60381b7f50 ***
+======= Backtrace: =========
+/usr/lib64/libc.so.6(+0x81609)[0x2b5ffab42609]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(+0x121a36)[0x2b6032804a36]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5FL_blk_free+0x125)[0x2b6032805ec5]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5RS_decr+0x37)[0x2b60328f18c7]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5G_name_free+0x29)[0x2b6032822ea9]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5D_close+0x238)[0x2b603279f8e8]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5I_dec_ref+0xb7)[0x2b603285c5d7]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5I_dec_app_ref+0x2c)[0x2b603285c74c]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5I_dec_app_ref_always_close+0x2d)[0x2b603285c9dd]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0(H5Dclose+0x63)[0x2b6032777703]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0(+0x85bd9)[0x2b6032183bd9]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0(nc4_rec_grp_HDF5_del+0x10f)[0x2b6032183e77]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0(nc4_close_hdf5_file+0xaf)[0x2b603217f0fa]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0(NC4_close+0xc7)[0x2b603217f6f1]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0(nc_close+0x42)[0x2b603212a4df]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so(+0x498a6)[0x2b6031dce8a6]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so(+0x65ae2)[0x2b6031deaae2]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyMethodDef_RawFastCallKeywords+0x141)[0x55f5c18d2651]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyCFunction_FastCallKeywords+0x21)[0x55f5c18d2891]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x4ede)[0x55f5c193ffce]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallKeywords+0xfb)[0x55f5c18d1cfb]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x6f0)[0x55f5c193b7e0]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalCodeWithName+0x2f9)[0x55f5c1880929]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallKeywords+0x387)[0x55f5c18d1f87]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x14dc)[0x55f5c193c5cc]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallDict+0x10b)[0x55f5c188192b]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x191159)[0x55f5c18fb159]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(PyObject_CallFinalizer+0x85)[0x55f5c19113b5]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(PyObject_CallFinalizerFromDealloc+0x1b)[0x55f5c19114ab]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a78df)[0x55f5c19118df]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fe2b)[0x55f5c1879e2b]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x10fd98)[0x55f5c1879d98]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x1a7660)[0x55f5c1911660]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyDict_DelItem_KnownHash+0x36b)[0x55f5c18d753b]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x25d7)[0x55f5c193d6c7]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallDict+0x10b)[0x55f5c188192b]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyObject_FastCall_Prepend+0x65)[0x55f5c18a0d85]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x170034)[0x55f5c18da034]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x170596)[0x55f5c18da596]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x25d7)[0x55f5c193d6c7]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallDict+0x10b)[0x55f5c188192b]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyObject_FastCall_Prepend+0x65)[0x55f5c18a0d85]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x170034)[0x55f5c18da034]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x170596)[0x55f5c18da596]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x25d7)[0x55f5c193d6c7]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalCodeWithName+0x2f9)[0x55f5c1880929]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyFunction_FastCallKeywords+0x325)[0x55f5c18d1f25]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x6f0)[0x55f5c193b7e0]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(+0x171969)[0x55f5c18db969]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyMethodDef_RawFastCallKeywords+0xe9)[0x55f5c18d25f9]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyCFunction_FastCallKeywords+0x21)[0x55f5c18d2891]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python(_PyEval_EvalFrameDefault+0x47d4)[0x55f5c193f8c4]
+======= Memory map: ========
+2b5ffa681000-2b5ffa6a3000 r-xp 00000000 08:01 396486                     /usr/lib64/ld-2.17.so
+2b5ffa6a3000-2b5ffa6a5000 rw-p 00000000 00:00 0 
+2b5ffa6a5000-2b5ffa6ac000 r--s 00000000 08:01 396797                     /usr/lib64/gconv/gconv-modules.cache
+2b5ffa6ac000-2b5ffa6ae000 r--p 00000000 138:bbcd0 144144119059536929     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-x86_64-linux-gnu.so
+2b5ffa6ae000-2b5ffa6af000 r-xp 00002000 138:bbcd0 144144119059536929     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-x86_64-linux-gnu.so
+2b5ffa6af000-2b5ffa6b0000 r--p 00003000 138:bbcd0 144144119059536929     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-x86_64-linux-gnu.so
+2b5ffa6b0000-2b5ffa6b1000 r--p 00003000 138:bbcd0 144144119059536929     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-x86_64-linux-gnu.so
+2b5ffa6b1000-2b5ffa6b2000 rw-p 00004000 138:bbcd0 144144119059536929     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-x86_64-linux-gnu.so
+2b5ffa6b2000-2b5ffa7f6000 rw-p 00000000 00:00 0 
+2b5ffa7f6000-2b5ffa7f8000 r--p 00000000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa7f8000-2b5ffa7fc000 r-xp 00002000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa7fc000-2b5ffa7fd000 r--p 00006000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa7fd000-2b5ffa7fe000 ---p 00007000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa7fe000-2b5ffa7ff000 r--p 00007000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa7ff000-2b5ffa801000 rw-p 00008000 138:bbcd0 144144119059536953     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-x86_64-linux-gnu.so
+2b5ffa801000-2b5ffa804000 r--p 00000000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa804000-2b5ffa812000 r-xp 00003000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa812000-2b5ffa818000 r--p 00011000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa818000-2b5ffa819000 ---p 00017000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa819000-2b5ffa81a000 r--p 00017000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa81a000-2b5ffa81b000 rw-p 00018000 138:bbcd0 144144119059533312     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libz.so.1.2.11
+2b5ffa81b000-2b5ffa89b000 rw-p 00000000 00:00 0 
+2b5ffa89b000-2b5ffa89c000 r--p 00000000 138:bbcd0 144144119059536941     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-x86_64-linux-gnu.so
+2b5ffa89c000-2b5ffa89e000 r-xp 00001000 138:bbcd0 144144119059536941     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-x86_64-linux-gnu.so
+2b5ffa89e000-2b5ffa89f000 r--p 00003000 138:bbcd0 144144119059536941     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-x86_64-linux-gnu.so
+2b5ffa89f000-2b5ffa8a0000 r--p 00003000 138:bbcd0 144144119059536941     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-x86_64-linux-gnu.so
+2b5ffa8a0000-2b5ffa8a2000 rw-p 00004000 138:bbcd0 144144119059536941     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-x86_64-linux-gnu.so
+2b5ffa8a2000-2b5ffa8a3000 r--p 00021000 08:01 396486                     /usr/lib64/ld-2.17.so
+2b5ffa8a3000-2b5ffa8a4000 rw-p 00022000 08:01 396486                     /usr/lib64/ld-2.17.so
+2b5ffa8a4000-2b5ffa8a5000 rw-p 00000000 00:00 0 
+2b5ffa8a5000-2b5ffa8bc000 r-xp 00000000 08:01 396519                     /usr/lib64/libpthread-2.17.so
+2b5ffa8bc000-2b5ffaabb000 ---p 00017000 08:01 396519                     /usr/lib64/libpthread-2.17.so
+2b5ffaabb000-2b5ffaabc000 r--p 00016000 08:01 396519                     /usr/lib64/libpthread-2.17.so
+2b5ffaabc000-2b5ffaabd000 rw-p 00017000 08:01 396519                     /usr/lib64/libpthread-2.17.so
+2b5ffaabd000-2b5ffaac1000 rw-p 00000000 00:00 0 
+2b5ffaac1000-2b5ffac83000 r-xp 00000000 08:01 396493                     /usr/lib64/libc-2.17.so
+2b5ffac83000-2b5ffae83000 ---p 001c2000 08:01 396493                     /usr/lib64/libc-2.17.so
+2b5ffae83000-2b5ffae87000 r--p 001c2000 08:01 396493                     /usr/lib64/libc-2.17.so
+2b5ffae87000-2b5ffae89000 rw-p 001c6000 08:01 396493                     /usr/lib64/libc-2.17.so
+2b5ffae89000-2b5ffae8e000 rw-p 00000000 00:00 0 
+2b5ffae8e000-2b5ffae90000 r-xp 00000000 08:01 396499                     /usr/lib64/libdl-2.17.so
+2b5ffae90000-2b5ffb090000 ---p 00002000 08:01 396499                     /usr/lib64/libdl-2.17.so
+2b5ffb090000-2b5ffb091000 r--p 00002000 08:01 396499                     /usr/lib64/libdl-2.17.so
+2b5ffb091000-2b5ffb092000 rw-p 00003000 08:01 396499                     /usr/lib64/libdl-2.17.so
+2b5ffb092000-2b5ffb094000 r-xp 00000000 08:01 396527                     /usr/lib64/libutil-2.17.so
+2b5ffb094000-2b5ffb293000 ---p 00002000 08:01 396527                     /usr/lib64/libutil-2.17.so
+2b5ffb293000-2b5ffb294000 r--p 00001000 08:01 396527                     /usr/lib64/libutil-2.17.so
+2b5ffb294000-2b5ffb295000 rw-p 00002000 08:01 396527                     /usr/lib64/libutil-2.17.so
+2b5ffb295000-2b5ffb29c000 r-xp 00000000 08:01 396523                     /usr/lib64/librt-2.17.so
+2b5ffb29c000-2b5ffb49b000 ---p 00007000 08:01 396523                     /usr/lib64/librt-2.17.so
+2b5ffb49b000-2b5ffb49c000 r--p 00006000 08:01 396523                     /usr/lib64/librt-2.17.so
+2b5ffb49c000-2b5ffb49d000 rw-p 00007000 08:01 396523                     /usr/lib64/librt-2.17.so
+2b5ffb49d000-2b5ffb59e000 r-xp 00000000 08:01 396501                     /usr/lib64/libm-2.17.so
+2b5ffb59e000-2b5ffb79d000 ---p 00101000 08:01 396501                     /usr/lib64/libm-2.17.so
+2b5ffb79d000-2b5ffb79e000 r--p 00100000 08:01 396501                     /usr/lib64/libm-2.17.so
+2b5ffb79e000-2b5ffb79f000 rw-p 00101000 08:01 396501                     /usr/lib64/libm-2.17.so
+2b5ffb79f000-2b6001cc9000 r--p 00000000 08:01 396798                     /usr/lib/locale/locale-archive
+2b6001cc9000-2b6001d89000 rw-p 00000000 00:00 0 
+2b6001d89000-2b6001d8c000 r--p 00000000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d8c000-2b6001d91000 r-xp 00003000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d91000-2b6001d93000 r--p 00008000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d93000-2b6001d94000 ---p 0000a000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d94000-2b6001d95000 r--p 0000a000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d95000-2b6001d97000 rw-p 0000b000 138:bbcd0 144144119059536963     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-x86_64-linux-gnu.so
+2b6001d97000-2b6001d9c000 r--p 00000000 138:bbcd0 144144119059536980     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_pickle.cpython-37m-x86_64-linux-gnu.so
+2b6001d9c000-2b6001daf000 r-xp 00005000 138:bbcd0 144144119059536980     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_pickle.cpython-37m-x86_64-linux-gnu.so
+2b6001daf000-2b6001db3000 r--p 00018000 138:bbcd0 144144119059536980     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_pickle.cpython-37m-x86_64-linux-gnu.so
+2b6001db3000-2b6001db4000 r--p 0001b000 138:bbcd0 144144119059536980     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_pickle.cpython-37m-x86_64-linux-gnu.so
+2b6001db4000-2b6001db7000 rw-p 0001c000 138:bbcd0 144144119059536980     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_pickle.cpython-37m-x86_64-linux-gnu.so
+2b6001db7000-2b6001dbc000 r--p 00000000 138:bbcd0 144144119059536979     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-x86_64-linux-gnu.so
+2b6001dbc000-2b6001dca000 r-xp 00005000 138:bbcd0 144144119059536979     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-x86_64-linux-gnu.so
+2b6001dca000-2b6001dcf000 r--p 00013000 138:bbcd0 144144119059536979     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-x86_64-linux-gnu.so
+2b6001dcf000-2b6001dd0000 r--p 00017000 138:bbcd0 144144119059536979     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-x86_64-linux-gnu.so
+2b6001dd0000-2b6001dd5000 rw-p 00018000 138:bbcd0 144144119059536979     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-x86_64-linux-gnu.so
+2b6001dd5000-2b6001e15000 rw-p 00000000 00:00 0 
+2b6001e15000-2b6001e18000 r--p 00000000 138:bbcd0 144144119059536958     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-x86_64-linux-gnu.so
+2b6001e18000-2b6001e1e000 r-xp 00003000 138:bbcd0 144144119059536958     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-x86_64-linux-gnu.so
+2b6001e1e000-2b6001e20000 r--p 00009000 138:bbcd0 144144119059536958     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-x86_64-linux-gnu.so
+2b6001e20000-2b6001e21000 r--p 0000a000 138:bbcd0 144144119059536958     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-x86_64-linux-gnu.so
+2b6001e21000-2b6001e23000 rw-p 0000b000 138:bbcd0 144144119059536958     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-x86_64-linux-gnu.so
+2b6001e23000-2b6001e25000 r--p 00000000 138:bbcd0 144144119059536952     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-x86_64-linux-gnu.so
+2b6001e25000-2b6001e29000 r-xp 00002000 138:bbcd0 144144119059536952     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-x86_64-linux-gnu.so
+2b6001e29000-2b6001e2a000 r--p 00006000 138:bbcd0 144144119059536952     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-x86_64-linux-gnu.so
+2b6001e2a000-2b6001e2b000 r--p 00006000 138:bbcd0 144144119059536952     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-x86_64-linux-gnu.so
+2b6001e2b000-2b6001e2d000 rw-p 00007000 138:bbcd0 144144119059536952     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-x86_64-linux-gnu.so
+2b6001e2d000-2b6001e31000 r--p 00000000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e31000-2b6001e38000 r-xp 00004000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e38000-2b6001e3b000 r--p 0000b000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e3b000-2b6001e3c000 ---p 0000e000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e3c000-2b6001e3d000 r--p 0000e000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e3d000-2b6001e40000 rw-p 0000f000 138:bbcd0 144144119059536966     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/array.cpython-37m-x86_64-linux-gnu.so
+2b6001e40000-2b6001e80000 rw-p 00000000 00:00 0 
+2b6001e80000-2b6001e83000 r--p 00000000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e83000-2b6001e92000 r-xp 00003000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e92000-2b6001e94000 r--p 00012000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e94000-2b6001e95000 ---p 00014000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e95000-2b6001e96000 r--p 00014000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e96000-2b6001e98000 rw-p 00015000 138:bbcd0 144144119059536974     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-x86_64-linux-gnu.so
+2b6001e98000-2b6001e9b000 r--p 00000000 138:bbcd0 144144119059536954     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-x86_64-linux-gnu.so
+2b6001e9b000-2b6001e9f000 r-xp 00003000 138:bbcd0 144144119059536954     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-x86_64-linux-gnu.so
+2b6001e9f000-2b6001ea1000 r--p 00007000 138:bbcd0 144144119059536954     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-x86_64-linux-gnu.so
+2b6001ea1000-2b6001ea2000 r--p 00008000 138:bbcd0 144144119059536954     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-x86_64-linux-gnu.so
+2b6001ea2000-2b6001ea4000 rw-p 00009000 138:bbcd0 144144119059536954     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-x86_64-linux-gnu.so
+2b6001ea4000-2b6001ea8000 r--p 00000000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001ea8000-2b6001ebf000 r-xp 00004000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001ebf000-2b6001eca000 r--p 0001b000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001eca000-2b6001ecb000 ---p 00026000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001ecb000-2b6001ecc000 r--p 00026000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001ecc000-2b6001ecd000 rw-p 00027000 138:bbcd0 144144119059529251     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/liblzma.so.5.2.4
+2b6001ecd000-2b6001ecf000 r--p 00000000 138:bbcd0 144144119059536948     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-x86_64-linux-gnu.so
+2b6001ecf000-2b6001ed2000 r-xp 00002000 138:bbcd0 144144119059536948     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-x86_64-linux-gnu.so
+2b6001ed2000-2b6001ed4000 r--p 00005000 138:bbcd0 144144119059536948     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-x86_64-linux-gnu.so
+2b6001ed4000-2b6001ed5000 r--p 00006000 138:bbcd0 144144119059536948     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-x86_64-linux-gnu.so
+2b6001ed5000-2b6001ed6000 rw-p 00007000 138:bbcd0 144144119059536948     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-x86_64-linux-gnu.so
+2b6001ed6000-2b6001ed8000 r--p 00000000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ed8000-2b6001ee0000 r-xp 00002000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ee0000-2b6001ee1000 r--p 0000a000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ee1000-2b6001ee2000 ---p 0000b000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ee2000-2b6001ee3000 r--p 0000b000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ee3000-2b6001ee4000 rw-p 0000c000 138:bbcd0 144144119059536969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-x86_64-linux-gnu.so
+2b6001ee4000-2b6001ee7000 r--p 00000000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001ee7000-2b6001efa000 r-xp 00003000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001efa000-2b6001efb000 r--p 00016000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001efb000-2b6001efc000 ---p 00017000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001efc000-2b6001efd000 r--p 00017000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001efd000-2b6001eff000 rw-p 00018000 138:bbcd0 144144119059536981     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-x86_64-linux-gnu.so
+2b6001eff000-2b6001f00000 r--p 00000000 138:bbcd0 144144119059536925     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-x86_64-linux-gnu.so
+2b6001f00000-2b6001f01000 r-xp 00001000 138:bbcd0 144144119059536925     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-x86_64-linux-gnu.so
+2b6001f01000-2b6001f02000 r--p 00002000 138:bbcd0 144144119059536925     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-x86_64-linux-gnu.so
+2b6001f02000-2b6001f03000 r--p 00002000 138:bbcd0 144144119059536925     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-x86_64-linux-gnu.so
+2b6001f03000-2b6001f04000 rw-p 00003000 138:bbcd0 144144119059536925     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-x86_64-linux-gnu.so
+2b6001f04000-2b6001f06000 r--p 00000000 138:bbcd0 144144119059536935     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-x86_64-linux-gnu.so
+2b6001f06000-2b6001f08000 r-xp 00002000 138:bbcd0 144144119059536935     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-x86_64-linux-gnu.so
+2b6001f08000-2b6001f09000 r--p 00004000 138:bbcd0 144144119059536935     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-x86_64-linux-gnu.so
+2b6001f09000-2b6001f0a000 r--p 00004000 138:bbcd0 144144119059536935     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-x86_64-linux-gnu.so
+2b6001f0a000-2b6001f0b000 rw-p 00005000 138:bbcd0 144144119059536935     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-x86_64-linux-gnu.so
+2b6001f0b000-2b6001f4b000 rw-p 00000000 00:00 0 
+2b6001f4b000-2b6001f4d000 r--p 00000000 138:bbcd0 144144119059536932     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-x86_64-linux-gnu.so
+2b6001f4d000-2b6001f4e000 r-xp 00002000 138:bbcd0 144144119059536932     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-x86_64-linux-gnu.so
+2b6001f4e000-2b6001f4f000 r--p 00003000 138:bbcd0 144144119059536932     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-x86_64-linux-gnu.so
+2b6001f4f000-2b6001f50000 r--p 00003000 138:bbcd0 144144119059536932     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-x86_64-linux-gnu.so
+2b6001f50000-2b6001f51000 rw-p 00004000 138:bbcd0 144144119059536932     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-x86_64-linux-gnu.so
+2b6001f51000-2b6001f53000 r--p 00000000 138:bbcd0 144144119059536940     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-x86_64-linux-gnu.so
+2b6001f53000-2b6001f55000 r-xp 00002000 138:bbcd0 144144119059536940     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-x86_64-linux-gnu.so
+2b6001f55000-2b6001f56000 r--p 00004000 138:bbcd0 144144119059536940     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-x86_64-linux-gnu.so
+2b6001f56000-2b6001f57000 r--p 00004000 138:bbcd0 144144119059536940     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-x86_64-linux-gnu.so
+2b6001f57000-2b6001f58000 rw-p 00005000 138:bbcd0 144144119059536940     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-x86_64-linux-gnu.so
+2b6001f58000-2b6001fd8000 rw-p 00000000 00:00 0 
+2b6001fd8000-2b6001fda000 r--p 00000000 138:bbcd0 144144119059536936     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+2b6001fda000-2b6001fdb000 r-xp 00002000 138:bbcd0 144144119059536936     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+2b6001fdb000-2b6001fdc000 r--p 00003000 138:bbcd0 144144119059536936     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+2b6001fdc000-2b6001fdd000 r--p 00003000 138:bbcd0 144144119059536936     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+2b6001fdd000-2b6001fde000 rw-p 00004000 138:bbcd0 144144119059536936     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_queue.cpython-37m-x86_64-linux-gnu.so
+2b6001fde000-2b600209e000 rw-p 00000000 00:00 0 
+2b600209e000-2b60020a3000 r--p 00000000 138:bbcd0 144144119059536982     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-x86_64-linux-gnu.so
+2b60020a3000-2b60020b3000 r-xp 00005000 138:bbcd0 144144119059536982     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-x86_64-linux-gnu.so
+2b60020b3000-2b60020b9000 r--p 00015000 138:bbcd0 144144119059536982     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-x86_64-linux-gnu.so
+2b60020b9000-2b60020ba000 r--p 0001a000 138:bbcd0 144144119059536982     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-x86_64-linux-gnu.so
+2b60020ba000-2b60020bc000 rw-p 0001b000 138:bbcd0 144144119059536982     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-x86_64-linux-gnu.so
+2b60020bc000-2b60020be000 r--p 00000000 138:bbcd0 144144119059536950     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-x86_64-linux-gnu.so
+2b60020be000-2b60020c1000 r-xp 00002000 138:bbcd0 144144119059536950     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-x86_64-linux-gnu.so
+2b60020c1000-2b60020c3000 r--p 00005000 138:bbcd0 144144119059536950     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-x86_64-linux-gnu.so
+2b60020c3000-2b60020c4000 r--p 00006000 138:bbcd0 144144119059536950     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-x86_64-linux-gnu.so
+2b60020c4000-2b60020c5000 rw-p 00007000 138:bbcd0 144144119059536950     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-x86_64-linux-gnu.so
+2b60020c5000-2b60020c6000 r--p 00000000 138:bbcd0 144144119059536921     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-x86_64-linux-gnu.so
+2b60020c6000-2b60020c7000 r-xp 00001000 138:bbcd0 144144119059536921     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-x86_64-linux-gnu.so
+2b60020c7000-2b60020c8000 r--p 00002000 138:bbcd0 144144119059536921     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-x86_64-linux-gnu.so
+2b60020c8000-2b60020c9000 r--p 00002000 138:bbcd0 144144119059536921     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-x86_64-linux-gnu.so
+2b60020c9000-2b60020ca000 rw-p 00003000 138:bbcd0 144144119059536921     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-x86_64-linux-gnu.so
+2b60020ca000-2b600210a000 rw-p 00000000 00:00 0 
+2b600210a000-2b6002184000 r--p 00000000 138:bbcd0 144144119059537326     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libcrypto.so.1.1
+2b6002184000-2b600234a000 r-xp 0007a000 138:bbcd0 144144119059537326     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libcrypto.so.1.1
+2b600234a000-2b60023d2000 r--p 00240000 138:bbcd0 144144119059537326     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libcrypto.so.1.1
+2b60023d2000-2b60023fd000 r--p 002c7000 138:bbcd0 144144119059537326     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libcrypto.so.1.1
+2b60023fd000-2b60023ff000 rw-p 002f2000 138:bbcd0 144144119059537326     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libcrypto.so.1.1
+2b60023ff000-2b6002402000 rw-p 00000000 00:00 0 
+2b6002402000-2b6002409000 r--p 00000000 138:bbcd0 144144064013481490     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/_yaml.cpython-37m-x86_64-linux-gnu.so
+2b6002409000-2b6002438000 r-xp 00007000 138:bbcd0 144144064013481490     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/_yaml.cpython-37m-x86_64-linux-gnu.so
+2b6002438000-2b600243c000 r--p 00036000 138:bbcd0 144144064013481490     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/_yaml.cpython-37m-x86_64-linux-gnu.so
+2b600243c000-2b600243d000 r--p 00039000 138:bbcd0 144144064013481490     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/_yaml.cpython-37m-x86_64-linux-gnu.so
+2b600243d000-2b6002440000 rw-p 0003a000 138:bbcd0 144144064013481490     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/_yaml.cpython-37m-x86_64-linux-gnu.so
+2b6002440000-2b6002441000 rw-p 00000000 00:00 0 
+2b6002441000-2b600245e000 r-xp 00000000 138:bbcd0 144144064013467990     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libyaml-0.so.2.0.5
+2b600245e000-2b600265d000 ---p 0001d000 138:bbcd0 144144064013467990     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libyaml-0.so.2.0.5
+2b600265d000-2b600265e000 r--p 0001c000 138:bbcd0 144144064013467990     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libyaml-0.so.2.0.5
+2b600265e000-2b600265f000 rw-p 0001d000 138:bbcd0 144144064013467990     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libyaml-0.so.2.0.5
+2b600265f000-2b600279f000 rw-p 00000000 00:00 0 
+2b600279f000-2b60027a9000 r--p 00000000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027a9000-2b60027b4000 r-xp 0000a000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027b4000-2b60027ba000 r--p 00015000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027ba000-2b60027bb000 ---p 0001b000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027bb000-2b60027bc000 r--p 0001b000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027bc000-2b60027c1000 rw-p 0001c000 138:bbcd0 144144119059536978     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-x86_64-linux-gnu.so
+2b60027c1000-2b60027e0000 r--p 00000000 138:bbcd0 144144119059534756     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libssl.so.1.1
+2b60027e0000-2b6002831000 r-xp 0001f000 138:bbcd0 144144119059534756     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libssl.so.1.1
+2b6002831000-2b600284a000 r--p 00070000 138:bbcd0 144144119059534756     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libssl.so.1.1
+2b600284a000-2b6002853000 r--p 00088000 138:bbcd0 144144119059534756     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libssl.so.1.1
+2b6002853000-2b6002857000 rw-p 00091000 138:bbcd0 144144119059534756     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libssl.so.1.1
+2b6002857000-2b6002917000 rw-p 00000000 00:00 0 
+2b6002917000-2b600297b000 r-xp 00000000 138:bbcd0 144144064013496589     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/itertoolz.cpython-37m-x86_64-linux-gnu.so
+2b600297b000-2b6002b7a000 ---p 00064000 138:bbcd0 144144064013496589     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/itertoolz.cpython-37m-x86_64-linux-gnu.so
+2b6002b7a000-2b6002b7b000 r--p 00063000 138:bbcd0 144144064013496589     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/itertoolz.cpython-37m-x86_64-linux-gnu.so
+2b6002b7b000-2b6002b89000 rw-p 00064000 138:bbcd0 144144064013496589     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/itertoolz.cpython-37m-x86_64-linux-gnu.so
+2b6002b89000-2b6002bca000 rw-p 00000000 00:00 0 
+2b6002bca000-2b6002bd3000 r-xp 00000000 138:bbcd0 144144064013496585     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/utils.cpython-37m-x86_64-linux-gnu.so
+2b6002bd3000-2b6002dd2000 ---p 00009000 138:bbcd0 144144064013496585     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/utils.cpython-37m-x86_64-linux-gnu.so
+2b6002dd2000-2b6002dd3000 r--p 00008000 138:bbcd0 144144064013496585     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/utils.cpython-37m-x86_64-linux-gnu.so
+2b6002dd3000-2b6002dd4000 rw-p 00009000 138:bbcd0 144144064013496585     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/utils.cpython-37m-x86_64-linux-gnu.so
+2b6002dd4000-2b6002e54000 rw-p 00000000 00:00 0 
+2b6002e54000-2b6002e8b000 r-xp 00000000 138:bbcd0 144144064013496588     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/functoolz.cpython-37m-x86_64-linux-gnu.so
+2b6002e8b000-2b600308a000 ---p 00037000 138:bbcd0 144144064013496588     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/functoolz.cpython-37m-x86_64-linux-gnu.so
+2b600308a000-2b600308b000 r--p 00036000 138:bbcd0 144144064013496588     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/functoolz.cpython-37m-x86_64-linux-gnu.so
+2b600308b000-2b6003091000 rw-p 00037000 138:bbcd0 144144064013496588     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/functoolz.cpython-37m-x86_64-linux-gnu.so
+2b6003091000-2b6003092000 rw-p 00000000 00:00 0 
+2b6003092000-2b60030af000 r-xp 00000000 138:bbcd0 144144064013496587     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/dicttoolz.cpython-37m-x86_64-linux-gnu.so
+2b60030af000-2b60032ae000 ---p 0001d000 138:bbcd0 144144064013496587     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/dicttoolz.cpython-37m-x86_64-linux-gnu.so
+2b60032ae000-2b60032af000 r--p 0001c000 138:bbcd0 144144064013496587     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/dicttoolz.cpython-37m-x86_64-linux-gnu.so
+2b60032af000-2b60032b2000 rw-p 0001d000 138:bbcd0 144144064013496587     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/dicttoolz.cpython-37m-x86_64-linux-gnu.so
+2b60032b2000-2b60032b3000 rw-p 00000000 00:00 0 
+2b60032b3000-2b60032bf000 r-xp 00000000 138:bbcd0 144144064013496586     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/recipes.cpython-37m-x86_64-linux-gnu.so
+2b60032bf000-2b60034be000 ---p 0000c000 138:bbcd0 144144064013496586     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/recipes.cpython-37m-x86_64-linux-gnu.so
+2b60034be000-2b60034bf000 r--p 0000b000 138:bbcd0 144144064013496586     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/recipes.cpython-37m-x86_64-linux-gnu.so
+2b60034bf000-2b60034c0000 rw-p 0000c000 138:bbcd0 144144064013496586     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cytoolz/recipes.cpython-37m-x86_64-linux-gnu.so
+2b60034c0000-2b6003541000 rw-p 00000000 00:00 0 
+2b6003541000-2b6003549000 r--p 00000000 138:bbcd0 144144119059536983     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so
+2b6003549000-2b600355a000 r-xp 00008000 138:bbcd0 144144119059536983     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so
+2b600355a000-2b6003561000 r--p 00019000 138:bbcd0 144144119059536983     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so
+2b6003561000-2b6003562000 r--p 0001f000 138:bbcd0 144144119059536983     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so
+2b6003562000-2b6003566000 rw-p 00020000 138:bbcd0 144144119059536983     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so
+2b6003566000-2b6003568000 r--p 00000000 138:bbcd0 144144119059534456     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libffi.so.6.0.4
+2b6003568000-2b600356d000 r-xp 00002000 138:bbcd0 144144119059534456     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libffi.so.6.0.4
+2b600356d000-2b600356e000 r--p 00007000 138:bbcd0 144144119059534456     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libffi.so.6.0.4
+2b600356e000-2b600356f000 r--p 00007000 138:bbcd0 144144119059534456     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libffi.so.6.0.4
+2b600356f000-2b6003570000 rw-p 00008000 138:bbcd0 144144119059534456     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libffi.so.6.0.4
+2b6003570000-2b6003571000 r-xs 00000000 08:02 19                         /tmp/ffiNb227W (deleted)
+2b6003571000-2b6003572000 rw-s 00000000 08:02 19                         /tmp/ffiNb227W (deleted)
+2b6003572000-2b60035b2000 rw-p 00000000 00:00 0 
+2b60035b2000-2b60035b4000 r--p 00000000 138:bbcd0 144144119059536967     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_json.cpython-37m-x86_64-linux-gnu.so
+2b60035b4000-2b60035bf000 r-xp 00002000 138:bbcd0 144144119059536967     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_json.cpython-37m-x86_64-linux-gnu.so
+2b60035bf000-2b60035c1000 r--p 0000d000 138:bbcd0 144144119059536967     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_json.cpython-37m-x86_64-linux-gnu.so
+2b60035c1000-2b60035c2000 r--p 0000e000 138:bbcd0 144144119059536967     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_json.cpython-37m-x86_64-linux-gnu.so
+2b60035c2000-2b60035c3000 rw-p 0000f000 138:bbcd0 144144119059536967     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_json.cpython-37m-x86_64-linux-gnu.so
+2b60035c3000-2b6003603000 rw-p 00000000 00:00 0 
+2b6003603000-2b6003604000 r--p 00000000 138:bbcd0 144144119059536920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_contextvars.cpython-37m-x86_64-linux-gnu.so
+2b6003604000-2b6003605000 r-xp 00001000 138:bbcd0 144144119059536920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_contextvars.cpython-37m-x86_64-linux-gnu.so
+2b6003605000-2b6003606000 r--p 00002000 138:bbcd0 144144119059536920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_contextvars.cpython-37m-x86_64-linux-gnu.so
+2b6003606000-2b6003607000 r--p 00002000 138:bbcd0 144144119059536920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_contextvars.cpython-37m-x86_64-linux-gnu.so
+2b6003607000-2b6003608000 rw-p 00003000 138:bbcd0 144144119059536920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_contextvars.cpython-37m-x86_64-linux-gnu.so
+2b6003608000-2b600360c000 r--p 00000000 138:bbcd0 144144119059536971     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_asyncio.cpython-37m-x86_64-linux-gnu.so
+2b600360c000-2b6003616000 r-xp 00004000 138:bbcd0 144144119059536971     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_asyncio.cpython-37m-x86_64-linux-gnu.so
+2b6003616000-2b6003619000 r--p 0000e000 138:bbcd0 144144119059536971     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_asyncio.cpython-37m-x86_64-linux-gnu.so
+2b6003619000-2b600361a000 r--p 00010000 138:bbcd0 144144119059536971     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_asyncio.cpython-37m-x86_64-linux-gnu.so
+2b600361a000-2b600361e000 rw-p 00011000 138:bbcd0 144144119059536971     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_asyncio.cpython-37m-x86_64-linux-gnu.so
+2b600361e000-2b600375e000 rw-p 00000000 00:00 0 
+2b600375e000-2b600375f000 r--p 00000000 138:bbcd0 144144064013494663     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/speedups.cpython-37m-x86_64-linux-gnu.so
+2b600375f000-2b6003760000 r-xp 00001000 138:bbcd0 144144064013494663     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/speedups.cpython-37m-x86_64-linux-gnu.so
+2b6003760000-2b6003761000 r--p 00002000 138:bbcd0 144144064013494663     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/speedups.cpython-37m-x86_64-linux-gnu.so
+2b6003761000-2b6003762000 r--p 00002000 138:bbcd0 144144064013494663     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/speedups.cpython-37m-x86_64-linux-gnu.so
+2b6003762000-2b6003763000 rw-p 00003000 138:bbcd0 144144064013494663     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/speedups.cpython-37m-x86_64-linux-gnu.so
+2b6003763000-2b6003769000 r--p 00000000 138:bbcd0 144144119059536968     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_curses.cpython-37m-x86_64-linux-gnu.so
+2b6003769000-2b6003772000 r-xp 00006000 138:bbcd0 144144119059536968     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_curses.cpython-37m-x86_64-linux-gnu.so
+2b6003772000-2b6003776000 r--p 0000f000 138:bbcd0 144144119059536968     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_curses.cpython-37m-x86_64-linux-gnu.so
+2b6003776000-2b6003777000 r--p 00012000 138:bbcd0 144144119059536968     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_curses.cpython-37m-x86_64-linux-gnu.so
+2b6003777000-2b6003779000 rw-p 00013000 138:bbcd0 144144119059536968     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_curses.cpython-37m-x86_64-linux-gnu.so
+2b6003779000-2b6003785000 r--p 00000000 138:bbcd0 144144119059531044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libncursesw.so.6.1
+2b6003785000-2b60037aa000 r-xp 0000c000 138:bbcd0 144144119059531044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libncursesw.so.6.1
+2b60037aa000-2b60037b3000 r--p 00031000 138:bbcd0 144144119059531044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libncursesw.so.6.1
+2b60037b3000-2b60037b4000 r--p 00039000 138:bbcd0 144144119059531044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libncursesw.so.6.1
+2b60037b4000-2b60037b5000 rw-p 0003a000 138:bbcd0 144144119059531044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libncursesw.so.6.1
+2b60037b5000-2b60037c5000 r--p 00000000 138:bbcd0 144144119059537160     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtinfow.so.6.1
+2b60037c5000-2b60037dd000 r-xp 00010000 138:bbcd0 144144119059537160     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtinfow.so.6.1
+2b60037dd000-2b60037ed000 r--p 00028000 138:bbcd0 144144119059537160     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtinfow.so.6.1
+2b60037ed000-2b60037f1000 r--p 00037000 138:bbcd0 144144119059537160     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtinfow.so.6.1
+2b60037f1000-2b60037f2000 rw-p 0003b000 138:bbcd0 144144119059537160     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtinfow.so.6.1
+2b60037f2000-2b60038b2000 rw-p 00000000 00:00 0 
+2b60038b2000-2b60038b4000 r--p 00000000 138:bbcd0 144144119059536928     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/resource.cpython-37m-x86_64-linux-gnu.so
+2b60038b4000-2b60038b5000 r-xp 00002000 138:bbcd0 144144119059536928     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/resource.cpython-37m-x86_64-linux-gnu.so
+2b60038b5000-2b60038b6000 r--p 00003000 138:bbcd0 144144119059536928     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/resource.cpython-37m-x86_64-linux-gnu.so
+2b60038b6000-2b60038b7000 r--p 00003000 138:bbcd0 144144119059536928     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/resource.cpython-37m-x86_64-linux-gnu.so
+2b60038b7000-2b60038b8000 rw-p 00004000 138:bbcd0 144144119059536928     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/resource.cpython-37m-x86_64-linux-gnu.so
+2b60038b8000-2b6003938000 rw-p 00000000 00:00 0 
+2b6003938000-2b600393b000 r--p 00000000 138:bbcd0 144144064013479762     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_linux.cpython-37m-x86_64-linux-gnu.so
+2b600393b000-2b600393d000 r-xp 00003000 138:bbcd0 144144064013479762     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_linux.cpython-37m-x86_64-linux-gnu.so
+2b600393d000-2b600393e000 r--p 00005000 138:bbcd0 144144064013479762     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_linux.cpython-37m-x86_64-linux-gnu.so
+2b600393e000-2b600393f000 r--p 00005000 138:bbcd0 144144064013479762     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_linux.cpython-37m-x86_64-linux-gnu.so
+2b600393f000-2b6003940000 rw-p 00006000 138:bbcd0 144144064013479762     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_linux.cpython-37m-x86_64-linux-gnu.so
+2b6003940000-2b6003942000 r--p 00000000 138:bbcd0 144144064013479761     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_posix.cpython-37m-x86_64-linux-gnu.so
+2b6003942000-2b6003943000 r-xp 00002000 138:bbcd0 144144064013479761     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_posix.cpython-37m-x86_64-linux-gnu.so
+2b6003943000-2b6003944000 r--p 00003000 138:bbcd0 144144064013479761     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_posix.cpython-37m-x86_64-linux-gnu.so
+2b6003944000-2b6003945000 r--p 00003000 138:bbcd0 144144064013479761     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_posix.cpython-37m-x86_64-linux-gnu.so
+2b6003945000-2b6003946000 rw-p 00004000 138:bbcd0 144144064013479761     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/psutil/_psutil_posix.cpython-37m-x86_64-linux-gnu.so
+2b6003946000-2b6003986000 rw-p 00000000 00:00 0 
+2b6003986000-2b600398c000 r--p 00000000 138:bbcd0 144144119059537132     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/msgpack/_cmsgpack.cpython-37m-x86_64-linux-gnu.so
+2b600398c000-2b60039a1000 r-xp 00006000 138:bbcd0 144144119059537132     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/msgpack/_cmsgpack.cpython-37m-x86_64-linux-gnu.so
+2b60039a1000-2b60039a7000 r--p 0001b000 138:bbcd0 144144119059537132     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/msgpack/_cmsgpack.cpython-37m-x86_64-linux-gnu.so
+2b60039a7000-2b60039a8000 r--p 00020000 138:bbcd0 144144119059537132     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/msgpack/_cmsgpack.cpython-37m-x86_64-linux-gnu.so
+2b60039a8000-2b60039ab000 rw-p 00021000 138:bbcd0 144144119059537132     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/msgpack/_cmsgpack.cpython-37m-x86_64-linux-gnu.so
+2b60039ab000-2b60039eb000 rw-p 00000000 00:00 0 
+2b60039eb000-2b60039ec000 r--p 00000000 138:bbcd0 144144119059536937     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/fcntl.cpython-37m-x86_64-linux-gnu.so
+2b60039ec000-2b60039ee000 r-xp 00001000 138:bbcd0 144144119059536937     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/fcntl.cpython-37m-x86_64-linux-gnu.so
+2b60039ee000-2b60039ef000 r--p 00003000 138:bbcd0 144144119059536937     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/fcntl.cpython-37m-x86_64-linux-gnu.so
+2b60039ef000-2b60039f0000 r--p 00003000 138:bbcd0 144144119059536937     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/fcntl.cpython-37m-x86_64-linux-gnu.so
+2b60039f0000-2b60039f1000 rw-p 00004000 138:bbcd0 144144119059536937     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/fcntl.cpython-37m-x86_64-linux-gnu.so
+2b60039f1000-2b60039f4000 r--p 00000000 138:bbcd0 144144119059536985     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-x86_64-linux-gnu.so
+2b60039f4000-2b60039f9000 r-xp 00003000 138:bbcd0 144144119059536985     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-x86_64-linux-gnu.so
+2b60039f9000-2b6003ada000 r--p 00008000 138:bbcd0 144144119059536985     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-x86_64-linux-gnu.so
+2b6003ada000-2b6003adb000 r--p 000e8000 138:bbcd0 144144119059536985     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-x86_64-linux-gnu.so
+2b6003adb000-2b6003af8000 rw-p 000e9000 138:bbcd0 144144119059536985     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-x86_64-linux-gnu.so
+2b6003af8000-2b6003d78000 rw-p 00000000 00:00 0 
+2b6003d78000-2b6003d79000 rw-s 00000000 00:13 1362020                    /dev/shm/sem.mp-leraxuq1
+2b6003d79000-2b6003d7a000 rw-s 00000000 00:13 1362021                    /dev/shm/sem.mp-gd3fq5rl
+2b6003d7a000-2b6003d7b000 rw-s 00000000 00:13 1362022                    /dev/shm/sem.mp-z5zf1d17
+2b6003d7b000-2b6003d7c000 rw-s 00000000 00:13 1362024                    /dev/shm/sem.mp-hke6ygvf
+2b6003d7c000-2b6003d7d000 rw-s 00000000 00:13 1362025                    /dev/shm/sem.mp-0k9hgn2z
+2b6003d7d000-2b6003d7e000 rw-s 00000000 00:13 1362026                    /dev/shm/sem.mp-ks4_g6iz
+2b6003d7e000-2b6003d7f000 ---p 00000000 00:00 0 
+2b6003d7f000-2b60046bf000 rw-p 00000000 00:00 0 
+2b60046bf000-2b60046c0000 r--p 00000000 138:bbcd0 144144119059534240     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/_mklinit.cpython-37m-x86_64-linux-gnu.so
+2b60046c0000-2b60046c1000 r-xp 00001000 138:bbcd0 144144119059534240     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/_mklinit.cpython-37m-x86_64-linux-gnu.so
+2b60046c1000-2b60046c2000 r--p 00002000 138:bbcd0 144144119059534240     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/_mklinit.cpython-37m-x86_64-linux-gnu.so
+2b60046c2000-2b60046c3000 r--p 00002000 138:bbcd0 144144119059534240     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/_mklinit.cpython-37m-x86_64-linux-gnu.so
+2b60046c3000-2b60046c4000 rw-p 00003000 138:bbcd0 144144119059534240     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/_mklinit.cpython-37m-x86_64-linux-gnu.so
+2b60046c4000-2b6004b92000 r-xp 00000000 138:bbcd0 144144064013462617     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_rt.so
+2b6004b92000-2b6004d92000 ---p 004ce000 138:bbcd0 144144064013462617     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_rt.so
+2b6004d92000-2b6004d98000 r--p 004ce000 138:bbcd0 144144064013462617     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_rt.so
+2b6004d98000-2b6004d9a000 rw-p 004d4000 138:bbcd0 144144064013462617     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_rt.so
+2b6004d9a000-2b6004dac000 rw-p 00000000 00:00 0 
+2b6004dac000-2b6004f66000 r-xp 00000000 138:bbcd0 144144064013460521     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libiomp5.so
+2b6004f66000-2b6005165000 ---p 001ba000 138:bbcd0 144144064013460521     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libiomp5.so
+2b6005165000-2b6005168000 r--p 001b9000 138:bbcd0 144144064013460521     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libiomp5.so
+2b6005168000-2b6005172000 rw-p 001bc000 138:bbcd0 144144064013460521     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libiomp5.so
+2b6005172000-2b60051a1000 rw-p 00000000 00:00 0 
+2b60051a1000-2b60051a4000 r--p 00000000 138:bbcd0 144144119059533243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libgcc_s.so.1
+2b60051a4000-2b60051b0000 r-xp 00003000 138:bbcd0 144144119059533243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libgcc_s.so.1
+2b60051b0000-2b60051b3000 r--p 0000f000 138:bbcd0 144144119059533243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libgcc_s.so.1
+2b60051b3000-2b60051b4000 r--p 00011000 138:bbcd0 144144119059533243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libgcc_s.so.1
+2b60051b4000-2b60051b5000 rw-p 00012000 138:bbcd0 144144119059533243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libgcc_s.so.1
+2b60051b5000-2b60051f5000 rw-p 00000000 00:00 0 
+2b60051f5000-2b600521f000 r--p 00000000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b600521f000-2b6005489000 r-xp 0002a000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b6005489000-2b6005516000 r--p 00294000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b6005516000-2b6005517000 ---p 00321000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b6005517000-2b600551a000 r--p 00321000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b600551a000-2b6005536000 rw-p 00324000 138:bbcd0 144144119059534248     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-x86_64-linux-gnu.so
+2b6005536000-2b6005657000 rw-p 00000000 00:00 0 
+2b6005657000-2b6005660000 r--p 00000000 138:bbcd0 144144119059534245     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_tests.cpython-37m-x86_64-linux-gnu.so
+2b6005660000-2b6005672000 r-xp 00009000 138:bbcd0 144144119059534245     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_tests.cpython-37m-x86_64-linux-gnu.so
+2b6005672000-2b6005677000 r--p 0001b000 138:bbcd0 144144119059534245     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_tests.cpython-37m-x86_64-linux-gnu.so
+2b6005677000-2b6005678000 r--p 0001f000 138:bbcd0 144144119059534245     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_tests.cpython-37m-x86_64-linux-gnu.so
+2b6005678000-2b6005679000 rw-p 00020000 138:bbcd0 144144119059534245     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/_multiarray_tests.cpython-37m-x86_64-linux-gnu.so
+2b6005679000-2b60056b9000 rw-p 00000000 00:00 0 
+2b60056b9000-2b60056bb000 r--p 00000000 138:bbcd0 144144119059534241     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/lapack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60056bb000-2b60056bd000 r-xp 00002000 138:bbcd0 144144119059534241     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/lapack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60056bd000-2b60056be000 r--p 00004000 138:bbcd0 144144119059534241     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/lapack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60056be000-2b60056bf000 r--p 00004000 138:bbcd0 144144119059534241     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/lapack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60056bf000-2b60056c0000 rw-p 00005000 138:bbcd0 144144119059534241     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/lapack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60056c0000-2b60056c8000 r--p 00000000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056c8000-2b60056e3000 r-xp 00008000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056e3000-2b60056e8000 r--p 00023000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056e8000-2b60056e9000 ---p 00028000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056e9000-2b60056ea000 r--p 00028000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056ea000-2b60056eb000 rw-p 00029000 138:bbcd0 144144119059534246     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/linalg/_umath_linalg.cpython-37m-x86_64-linux-gnu.so
+2b60056eb000-2b600576b000 rw-p 00000000 00:00 0 
+2b600576b000-2b6005772000 r--p 00000000 138:bbcd0 144144119059536986     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_decimal.cpython-37m-x86_64-linux-gnu.so
+2b6005772000-2b60057a7000 r-xp 00007000 138:bbcd0 144144119059536986     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_decimal.cpython-37m-x86_64-linux-gnu.so
+2b60057a7000-2b60057b1000 r--p 0003c000 138:bbcd0 144144119059536986     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_decimal.cpython-37m-x86_64-linux-gnu.so
+2b60057b1000-2b60057b2000 r--p 00045000 138:bbcd0 144144119059536986     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_decimal.cpython-37m-x86_64-linux-gnu.so
+2b60057b2000-2b60057ba000 rw-p 00046000 138:bbcd0 144144119059536986     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_decimal.cpython-37m-x86_64-linux-gnu.so
+2b60057ba000-2b60057bb000 r--p 00000000 138:bbcd0 144144119059534243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/fft/fftpack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60057bb000-2b60057c3000 r-xp 00001000 138:bbcd0 144144119059534243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/fft/fftpack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60057c3000-2b60057c4000 r--p 00009000 138:bbcd0 144144119059534243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/fft/fftpack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60057c4000-2b60057c5000 r--p 00009000 138:bbcd0 144144119059534243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/fft/fftpack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60057c5000-2b60057c6000 rw-p 0000a000 138:bbcd0 144144119059534243     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/fft/fftpack_lite.cpython-37m-x86_64-linux-gnu.so
+2b60057c6000-2b6005806000 rw-p 00000000 00:00 0 
+2b6005806000-2b600580e000 r--p 00000000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b600580e000-2b6005852000 r-xp 00008000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b6005852000-2b6005858000 r--p 0004c000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b6005858000-2b6005859000 ---p 00052000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b6005859000-2b600585a000 r--p 00052000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b600585a000-2b600585e000 rw-p 00053000 138:bbcd0 144144119059534677     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/mkl_fft/_pydfti.cpython-37m-x86_64-linux-gnu.so
+2b600585e000-2b600589f000 rw-p 00000000 00:00 0 
+2b600589f000-2b60058aa000 r--p 00000000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b60058aa000-2b6005930000 r-xp 0000b000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b6005930000-2b6005953000 r--p 00091000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b6005953000-2b6005954000 ---p 000b4000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b6005954000-2b6005955000 r--p 000b4000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b6005955000-2b6005979000 rw-p 000b5000 138:bbcd0 144144119059534247     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/random/mtrand.cpython-37m-x86_64-linux-gnu.so
+2b6005979000-2b6005abc000 rw-p 00000000 00:00 0 
+2b6005abc000-2b6007b26000 r-xp 00000000 138:bbcd0 144144064013462636     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_thread.so
+2b6007b26000-2b6007d26000 ---p 0206a000 138:bbcd0 144144064013462636     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_thread.so
+2b6007d26000-2b6007d2a000 r--p 0206a000 138:bbcd0 144144064013462636     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_thread.so
+2b6007d2a000-2b6007f90000 rw-p 0206e000 138:bbcd0 144144064013462636     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_thread.so
+2b6007f90000-2b6007fd9000 rw-p 00000000 00:00 0 
+2b6007fd9000-2b6007fdb000 r--p 00000000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fdb000-2b6007fdf000 r-xp 00002000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fdf000-2b6007fe0000 r--p 00006000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fe0000-2b6007fe1000 ---p 00007000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fe1000-2b6007fe2000 r--p 00007000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fe2000-2b6007fe4000 rw-p 00008000 138:bbcd0 144144119059536955     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/_csv.cpython-37m-x86_64-linux-gnu.so
+2b6007fe4000-2b6007fe6000 r--p 00000000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007fe6000-2b6007fe9000 r-xp 00002000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007fe9000-2b6007fea000 r--p 00005000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007fea000-2b6007feb000 ---p 00006000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007feb000-2b6007fec000 r--p 00006000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007fec000-2b6007fed000 rw-p 00007000 138:bbcd0 144144119059536945     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/lib-dynload/mmap.cpython-37m-x86_64-linux-gnu.so
+2b6007fed000-2b6007fee000 r--p 00000000 138:bbcd0 144144064013477690     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so
+2b6007fee000-2b6007fef000 r-xp 00001000 138:bbcd0 144144064013477690     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so
+2b6007fef000-2b6007ff0000 r--p 00002000 138:bbcd0 144144064013477690     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so
+2b6007ff0000-2b6007ff1000 r--p 00002000 138:bbcd0 144144064013477690     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so
+2b6007ff1000-2b6007ff2000 rw-p 00003000 138:bbcd0 144144064013477690     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so
+2b6007ff2000-2b6007ff5000 r--p 00000000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ff5000-2b6007ff9000 r-xp 00003000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ff9000-2b6007ffa000 r--p 00007000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ffa000-2b6007ffb000 ---p 00008000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ffb000-2b6007ffc000 r--p 00008000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ffc000-2b6007ffd000 rw-p 00009000 138:bbcd0 144144119059537062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/compat_ext.cpython-37m-x86_64-linux-gnu.so
+2b6007ffd000-2b6007ffe000 rw-s 00000000 00:13 1261348                    /dev/shm/sem.XxjYQT (deleted)
+2b6007ffe000-2b6007fff000 rw-p 00000000 00:00 0 
+2b6008000000-2b6008021000 rw-p 00000000 00:00 0 
+2b6008021000-2b600c000000 ---p 00000000 00:00 0 
+2b600c000000-2b600fff3000 r-xp 00000000 138:bbcd0 144144064013462642     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_core.so
+2b600fff3000-2b60101f2000 ---p 03ff3000 138:bbcd0 144144064013462642     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_core.so
+2b60101f2000-2b60101f9000 r--p 03ff2000 138:bbcd0 144144064013462642     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_core.so
+2b60101f9000-2b6010228000 rw-p 03ff9000 138:bbcd0 144144064013462642     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_core.so
+2b6010228000-2b601024a000 rw-p 00000000 00:00 0 
+2b601024a000-2b6010b90000 r-xp 00000000 138:bbcd0 144144064013462624     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_lp64.so
+2b6010b90000-2b6010d90000 ---p 00946000 138:bbcd0 144144064013462624     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_lp64.so
+2b6010d90000-2b6010d91000 r--p 00946000 138:bbcd0 144144064013462624     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_lp64.so
+2b6010d91000-2b6010da4000 rw-p 00947000 138:bbcd0 144144064013462624     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_intel_lp64.so
+2b6010da4000-2b6010da9000 rw-p 00000000 00:00 0 
+2b6010da9000-2b6014259000 r-xp 00000000 138:bbcd0 144144064013462641     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_avx2.so
+2b6014259000-2b6014459000 ---p 034b0000 138:bbcd0 144144064013462641     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_avx2.so
+2b6014459000-2b6014460000 r--p 034b0000 138:bbcd0 144144064013462641     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_avx2.so
+2b6014460000-2b601446e000 rw-p 034b7000 138:bbcd0 144144064013462641     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_avx2.so
+2b601446e000-2b6014475000 rw-p 00000000 00:00 0 
+2b6014475000-2b6015008000 r-xp 00000000 138:bbcd0 144144064013462629     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_vml_avx2.so
+2b6015008000-2b6015208000 ---p 00b93000 138:bbcd0 144144064013462629     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_vml_avx2.so
+2b6015208000-2b601520b000 r--p 00b93000 138:bbcd0 144144064013462629     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_vml_avx2.so
+2b601520b000-2b6015220000 rw-p 00b96000 138:bbcd0 144144064013462629     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libmkl_vml_avx2.so
+2b6015220000-2b6015261000 rw-p 00000000 00:00 0 
+2b6015261000-2b60152ca000 r-xp 00000000 138:bbcd0 144144138353272062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/conversion.cpython-37m-x86_64-linux-gnu.so
+2b60152ca000-2b60154c9000 ---p 00069000 138:bbcd0 144144138353272062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/conversion.cpython-37m-x86_64-linux-gnu.so
+2b60154c9000-2b60154d0000 rw-p 00068000 138:bbcd0 144144138353272062     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/conversion.cpython-37m-x86_64-linux-gnu.so
+2b60154d0000-2b6015511000 rw-p 00000000 00:00 0 
+2b6015511000-2b6015539000 r-xp 00000000 138:bbcd0 144144138353272066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/nattype.cpython-37m-x86_64-linux-gnu.so
+2b6015539000-2b6015739000 ---p 00028000 138:bbcd0 144144138353272066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/nattype.cpython-37m-x86_64-linux-gnu.so
+2b6015739000-2b601573d000 rw-p 00028000 138:bbcd0 144144138353272066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/nattype.cpython-37m-x86_64-linux-gnu.so
+2b601573d000-2b601573e000 rw-p 00000000 00:00 0 
+2b601573e000-2b601574a000 r-xp 00000000 138:bbcd0 144144138353272055     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/np_datetime.cpython-37m-x86_64-linux-gnu.so
+2b601574a000-2b6015949000 ---p 0000c000 138:bbcd0 144144138353272055     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/np_datetime.cpython-37m-x86_64-linux-gnu.so
+2b6015949000-2b601594a000 rw-p 0000b000 138:bbcd0 144144138353272055     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/np_datetime.cpython-37m-x86_64-linux-gnu.so
+2b601594a000-2b60159c1000 r-xp 00000000 138:bbcd0 144144138353272052     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timedeltas.cpython-37m-x86_64-linux-gnu.so
+2b60159c1000-2b6015bc0000 ---p 00077000 138:bbcd0 144144138353272052     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timedeltas.cpython-37m-x86_64-linux-gnu.so
+2b6015bc0000-2b6015bc8000 rw-p 00076000 138:bbcd0 144144138353272052     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timedeltas.cpython-37m-x86_64-linux-gnu.so
+2b6015bc8000-2b6015bca000 rw-p 00000000 00:00 0 
+2b6015bca000-2b6015c30000 r-xp 00000000 138:bbcd0 144144138353272064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/offsets.cpython-37m-x86_64-linux-gnu.so
+2b6015c30000-2b6015e2f000 ---p 00066000 138:bbcd0 144144138353272064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/offsets.cpython-37m-x86_64-linux-gnu.so
+2b6015e2f000-2b6015e38000 rw-p 00065000 138:bbcd0 144144138353272064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/offsets.cpython-37m-x86_64-linux-gnu.so
+2b6015e38000-2b6015e3a000 rw-p 00000000 00:00 0 
+2b6015e3a000-2b6015e47000 r-xp 00000000 138:bbcd0 144144138353272054     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/ccalendar.cpython-37m-x86_64-linux-gnu.so
+2b6015e47000-2b6016047000 ---p 0000d000 138:bbcd0 144144138353272054     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/ccalendar.cpython-37m-x86_64-linux-gnu.so
+2b6016047000-2b6016049000 rw-p 0000d000 138:bbcd0 144144138353272054     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/ccalendar.cpython-37m-x86_64-linux-gnu.so
+2b6016049000-2b60160b0000 r-xp 00000000 138:bbcd0 144144138353272060     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/strptime.cpython-37m-x86_64-linux-gnu.so
+2b60160b0000-2b60162b0000 ---p 00067000 138:bbcd0 144144138353272060     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/strptime.cpython-37m-x86_64-linux-gnu.so
+2b60162b0000-2b60162b7000 rw-p 00067000 138:bbcd0 144144138353272060     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/strptime.cpython-37m-x86_64-linux-gnu.so
+2b60162b7000-2b60162b9000 rw-p 00000000 00:00 0 
+2b60162b9000-2b60162f1000 r-xp 00000000 138:bbcd0 144144138353272053     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timezones.cpython-37m-x86_64-linux-gnu.so
+2b60162f1000-2b60164f0000 ---p 00038000 138:bbcd0 144144138353272053     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timezones.cpython-37m-x86_64-linux-gnu.so
+2b60164f0000-2b60164f4000 rw-p 00037000 138:bbcd0 144144138353272053     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timezones.cpython-37m-x86_64-linux-gnu.so
+2b60164f4000-2b60164f5000 rw-p 00000000 00:00 0 
+2b60164f5000-2b601654f000 r-xp 00000000 138:bbcd0 144144138353272065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/parsing.cpython-37m-x86_64-linux-gnu.so
+2b601654f000-2b601674e000 ---p 0005a000 138:bbcd0 144144138353272065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/parsing.cpython-37m-x86_64-linux-gnu.so
+2b601674e000-2b6016755000 rw-p 00059000 138:bbcd0 144144138353272065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/parsing.cpython-37m-x86_64-linux-gnu.so
+2b6016755000-2b6016757000 rw-p 00000000 00:00 0 
+2b6016757000-2b60167c8000 r-xp 00000000 138:bbcd0 144144138353272056     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/period.cpython-37m-x86_64-linux-gnu.so
+2b60167c8000-2b60169c8000 ---p 00071000 138:bbcd0 144144138353272056     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/period.cpython-37m-x86_64-linux-gnu.so
+2b60169c8000-2b60169d1000 rw-p 00071000 138:bbcd0 144144138353272056     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/period.cpython-37m-x86_64-linux-gnu.so
+2b60169d1000-2b6016a12000 rw-p 00000000 00:00 0 
+2b6016a12000-2b6016a31000 r-xp 00000000 138:bbcd0 144144138353272061     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/frequencies.cpython-37m-x86_64-linux-gnu.so
+2b6016a31000-2b6016c31000 ---p 0001f000 138:bbcd0 144144138353272061     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/frequencies.cpython-37m-x86_64-linux-gnu.so
+2b6016c31000-2b6016c34000 rw-p 0001f000 138:bbcd0 144144138353272061     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/frequencies.cpython-37m-x86_64-linux-gnu.so
+2b6016c34000-2b6016c35000 rw-p 00000000 00:00 0 
+2b6016c35000-2b6016cb1000 r-xp 00000000 138:bbcd0 144144138353272057     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timestamps.cpython-37m-x86_64-linux-gnu.so
+2b6016cb1000-2b6016eb0000 ---p 0007c000 138:bbcd0 144144138353272057     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timestamps.cpython-37m-x86_64-linux-gnu.so
+2b6016eb0000-2b6016ebb000 rw-p 0007b000 138:bbcd0 144144138353272057     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/timestamps.cpython-37m-x86_64-linux-gnu.so
+2b6016ebb000-2b6016ebd000 rw-p 00000000 00:00 0 
+2b6016ebd000-2b6016efc000 r-xp 00000000 138:bbcd0 144144138353272063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/fields.cpython-37m-x86_64-linux-gnu.so
+2b6016efc000-2b60170fc000 ---p 0003f000 138:bbcd0 144144138353272063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/fields.cpython-37m-x86_64-linux-gnu.so
+2b60170fc000-2b6017100000 rw-p 0003f000 138:bbcd0 144144138353272063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/fields.cpython-37m-x86_64-linux-gnu.so
+2b6017100000-2b6017101000 rw-p 00000000 00:00 0 
+2b6017101000-2b6017141000 r-xp 00000000 138:bbcd0 144144138353272059     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/resolution.cpython-37m-x86_64-linux-gnu.so
+2b6017141000-2b6017340000 ---p 00040000 138:bbcd0 144144138353272059     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/resolution.cpython-37m-x86_64-linux-gnu.so
+2b6017340000-2b6017345000 rw-p 0003f000 138:bbcd0 144144138353272059     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslibs/resolution.cpython-37m-x86_64-linux-gnu.so
+2b6017345000-2b6017346000 rw-p 00000000 00:00 0 
+2b6017346000-2b60173d5000 r-xp 00000000 138:bbcd0 144144138353272035     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashtable.cpython-37m-x86_64-linux-gnu.so
+2b60173d5000-2b60175d4000 ---p 0008f000 138:bbcd0 144144138353272035     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashtable.cpython-37m-x86_64-linux-gnu.so
+2b60175d4000-2b60175e0000 rw-p 0008e000 138:bbcd0 144144138353272035     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashtable.cpython-37m-x86_64-linux-gnu.so
+2b60175e0000-2b60175e1000 rw-p 00000000 00:00 0 
+2b60175e1000-2b60175f3000 r-xp 00000000 138:bbcd0 144144138353272030     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/missing.cpython-37m-x86_64-linux-gnu.so
+2b60175f3000-2b60177f3000 ---p 00012000 138:bbcd0 144144138353272030     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/missing.cpython-37m-x86_64-linux-gnu.so
+2b60177f3000-2b60177f5000 rw-p 00012000 138:bbcd0 144144138353272030     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/missing.cpython-37m-x86_64-linux-gnu.so
+2b60177f5000-2b601785f000 r-xp 00000000 138:bbcd0 144144138353272042     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/lib.cpython-37m-x86_64-linux-gnu.so
+2b601785f000-2b6017a5f000 ---p 0006a000 138:bbcd0 144144138353272042     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/lib.cpython-37m-x86_64-linux-gnu.so
+2b6017a5f000-2b6017a69000 rw-p 0006a000 138:bbcd0 144144138353272042     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/lib.cpython-37m-x86_64-linux-gnu.so
+2b6017a69000-2b6017a6b000 rw-p 00000000 00:00 0 
+2b6017a6b000-2b6017ab8000 r-xp 00000000 138:bbcd0 144144138353272048     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslib.cpython-37m-x86_64-linux-gnu.so
+2b6017ab8000-2b6017cb8000 ---p 0004d000 138:bbcd0 144144138353272048     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslib.cpython-37m-x86_64-linux-gnu.so
+2b6017cb8000-2b6017cbd000 rw-p 0004d000 138:bbcd0 144144138353272048     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/tslib.cpython-37m-x86_64-linux-gnu.so
+2b6017cbd000-2b6017cfe000 rw-p 00000000 00:00 0 
+2b6017cfe000-2b6017ea6000 r-xp 00000000 138:bbcd0 144144138353272047     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/algos.cpython-37m-x86_64-linux-gnu.so
+2b6017ea6000-2b60180a6000 ---p 001a8000 138:bbcd0 144144138353272047     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/algos.cpython-37m-x86_64-linux-gnu.so
+2b60180a6000-2b60180b2000 rw-p 001a8000 138:bbcd0 144144138353272047     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/algos.cpython-37m-x86_64-linux-gnu.so
+2b60180b2000-2b60180f5000 rw-p 00000000 00:00 0 
+2b60180f5000-2b6018311000 r-xp 00000000 138:bbcd0 144144138353272032     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/interval.cpython-37m-x86_64-linux-gnu.so
+2b6018311000-2b6018510000 ---p 0021c000 138:bbcd0 144144138353272032     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/interval.cpython-37m-x86_64-linux-gnu.so
+2b6018510000-2b6018520000 rw-p 0021b000 138:bbcd0 144144138353272032     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/interval.cpython-37m-x86_64-linux-gnu.so
+2b6018520000-2b6018563000 rw-p 00000000 00:00 0 
+2b6018563000-2b6018571000 r-xp 00000000 138:bbcd0 144144138353272028     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/properties.cpython-37m-x86_64-linux-gnu.so
+2b6018571000-2b6018770000 ---p 0000e000 138:bbcd0 144144138353272028     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/properties.cpython-37m-x86_64-linux-gnu.so
+2b6018770000-2b6018772000 rw-p 0000d000 138:bbcd0 144144138353272028     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/properties.cpython-37m-x86_64-linux-gnu.so
+2b6018772000-2b60187b2000 rw-p 00000000 00:00 0 
+2b60187b2000-2b60187dc000 r-xp 00000000 138:bbcd0 144144138353272050     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashing.cpython-37m-x86_64-linux-gnu.so
+2b60187dc000-2b60189dc000 ---p 0002a000 138:bbcd0 144144138353272050     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashing.cpython-37m-x86_64-linux-gnu.so
+2b60189dc000-2b60189df000 rw-p 0002a000 138:bbcd0 144144138353272050     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/hashing.cpython-37m-x86_64-linux-gnu.so
+2b60189df000-2b60189e0000 rw-p 00000000 00:00 0 
+2b60189e0000-2b6018a14000 r-xp 00000000 138:bbcd0 144144138353272049     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/ops.cpython-37m-x86_64-linux-gnu.so
+2b6018a14000-2b6018c13000 ---p 00034000 138:bbcd0 144144138353272049     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/ops.cpython-37m-x86_64-linux-gnu.so
+2b6018c13000-2b6018c17000 rw-p 00033000 138:bbcd0 144144138353272049     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/ops.cpython-37m-x86_64-linux-gnu.so
+2b6018c17000-2b6018c98000 rw-p 00000000 00:00 0 
+2b6018c98000-2b6018caf000 r-xp 00000000 138:bbcd0 144144064013524131     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/reduce.cpython-37m-x86_64-linux-gnu.so
+2b6018caf000-2b6018eae000 ---p 00017000 138:bbcd0 144144064013524131     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/reduce.cpython-37m-x86_64-linux-gnu.so
+2b6018eae000-2b6018eaf000 r--p 00016000 138:bbcd0 144144064013524131     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/reduce.cpython-37m-x86_64-linux-gnu.so
+2b6018eaf000-2b6018eb3000 rw-p 00017000 138:bbcd0 144144064013524131     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/reduce.cpython-37m-x86_64-linux-gnu.so
+2b6018eb3000-2b6018eb6000 r-xp 00000000 138:bbcd0 144144064013524125     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce.cpython-37m-x86_64-linux-gnu.so
+2b6018eb6000-2b60190b6000 ---p 00003000 138:bbcd0 144144064013524125     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce.cpython-37m-x86_64-linux-gnu.so
+2b60190b6000-2b60190b7000 r--p 00003000 138:bbcd0 144144064013524125     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce.cpython-37m-x86_64-linux-gnu.so
+2b60190b7000-2b60190b8000 rw-p 00004000 138:bbcd0 144144064013524125     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce.cpython-37m-x86_64-linux-gnu.so
+2b60190b8000-2b60190c0000 r-xp 00000000 138:bbcd0 144144064013524126     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce_axis.cpython-37m-x86_64-linux-gnu.so
+2b60190c0000-2b60192bf000 ---p 00008000 138:bbcd0 144144064013524126     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce_axis.cpython-37m-x86_64-linux-gnu.so
+2b60192bf000-2b60192c0000 r--p 00007000 138:bbcd0 144144064013524126     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce_axis.cpython-37m-x86_64-linux-gnu.so
+2b60192c0000-2b60192c2000 rw-p 00008000 138:bbcd0 144144064013524126     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/nonreduce_axis.cpython-37m-x86_64-linux-gnu.so
+2b60192c2000-2b60192d9000 r-xp 00000000 138:bbcd0 144144064013524130     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/move.cpython-37m-x86_64-linux-gnu.so
+2b60192d9000-2b60194d8000 ---p 00017000 138:bbcd0 144144064013524130     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/move.cpython-37m-x86_64-linux-gnu.so
+2b60194d8000-2b60194d9000 r--p 00016000 138:bbcd0 144144064013524130     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/move.cpython-37m-x86_64-linux-gnu.so
+2b60194d9000-2b60194dd000 rw-p 00017000 138:bbcd0 144144064013524130     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/bottleneck/move.cpython-37m-x86_64-linux-gnu.so
+2b60194dd000-2b60195dd000 rw-p 00000000 00:00 0 
+2b60195dd000-2b6019686000 r-xp 00000000 138:bbcd0 144144138353272044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/index.cpython-37m-x86_64-linux-gnu.so
+2b6019686000-2b6019886000 ---p 000a9000 138:bbcd0 144144138353272044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/index.cpython-37m-x86_64-linux-gnu.so
+2b6019886000-2b601988e000 rw-p 000a9000 138:bbcd0 144144138353272044     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/index.cpython-37m-x86_64-linux-gnu.so
+2b601988e000-2b6019890000 rw-p 00000000 00:00 0 
+2b6019890000-2b6019b11000 r-xp 00000000 138:bbcd0 144144138353272034     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/join.cpython-37m-x86_64-linux-gnu.so
+2b6019b11000-2b6019d11000 ---p 00281000 138:bbcd0 144144138353272034     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/join.cpython-37m-x86_64-linux-gnu.so
+2b6019d11000-2b6019d1a000 rw-p 00281000 138:bbcd0 144144138353272034     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/join.cpython-37m-x86_64-linux-gnu.so
+2b6019d1a000-2b6019d9b000 rw-p 00000000 00:00 0 
+2b6019d9b000-2b6019e7b000 r-xp 00000000 138:bbcd0 144144138353272041     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/sparse.cpython-37m-x86_64-linux-gnu.so
+2b6019e7b000-2b601a07a000 ---p 000e0000 138:bbcd0 144144138353272041     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/sparse.cpython-37m-x86_64-linux-gnu.so
+2b601a07a000-2b601a07f000 rw-p 000df000 138:bbcd0 144144138353272041     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/sparse.cpython-37m-x86_64-linux-gnu.so
+2b601a07f000-2b601a0c0000 rw-p 00000000 00:00 0 
+2b601a0c0000-2b601a177000 r-xp 00000000 138:bbcd0 144144138353272045     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/groupby.cpython-37m-x86_64-linux-gnu.so
+2b601a177000-2b601a377000 ---p 000b7000 138:bbcd0 144144138353272045     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/groupby.cpython-37m-x86_64-linux-gnu.so
+2b601a377000-2b601a37f000 rw-p 000b7000 138:bbcd0 144144138353272045     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/groupby.cpython-37m-x86_64-linux-gnu.so
+2b601a37f000-2b601a4c1000 rw-p 00000000 00:00 0 
+2b601a4c1000-2b601a4ca000 r-xp 00000000 138:bbcd0 144144138353272037     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/indexing.cpython-37m-x86_64-linux-gnu.so
+2b601a4ca000-2b601a6c9000 ---p 00009000 138:bbcd0 144144138353272037     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/indexing.cpython-37m-x86_64-linux-gnu.so
+2b601a6c9000-2b601a6cb000 rw-p 00008000 138:bbcd0 144144138353272037     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/indexing.cpython-37m-x86_64-linux-gnu.so
+2b601a6cb000-2b601a70b000 rw-p 00000000 00:00 0 
+2b601a70b000-2b601a74b000 r-xp 00000000 138:bbcd0 144144138353272031     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/internals.cpython-37m-x86_64-linux-gnu.so
+2b601a74b000-2b601a94a000 ---p 00040000 138:bbcd0 144144138353272031     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/internals.cpython-37m-x86_64-linux-gnu.so
+2b601a94a000-2b601a94f000 rw-p 0003f000 138:bbcd0 144144138353272031     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/internals.cpython-37m-x86_64-linux-gnu.so
+2b601a94f000-2b601ac50000 rw-p 00000000 00:00 0 
+2b601ac50000-2b601ad24000 r-xp 00000000 138:bbcd0 144144138353275768     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/ft2font.cpython-37m-x86_64-linux-gnu.so
+2b601ad24000-2b601af24000 ---p 000d4000 138:bbcd0 144144138353275768     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/ft2font.cpython-37m-x86_64-linux-gnu.so
+2b601af24000-2b601af2b000 rw-p 000d4000 138:bbcd0 144144138353275768     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/ft2font.cpython-37m-x86_64-linux-gnu.so
+2b601af2b000-2b601af2c000 rw-p 00000000 00:00 0 
+2b601af2c000-2b601afc0000 r--p 00000000 138:bbcd0 144144064013460800     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libstdc++.so.6.0.25
+2b601afc0000-2b601b025000 r-xp 00094000 138:bbcd0 144144064013460800     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libstdc++.so.6.0.25
+2b601b025000-2b601b05c000 r--p 000f9000 138:bbcd0 144144064013460800     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libstdc++.so.6.0.25
+2b601b05c000-2b601b066000 r--p 0012f000 138:bbcd0 144144064013460800     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libstdc++.so.6.0.25
+2b601b066000-2b601b06a000 rw-p 00139000 138:bbcd0 144144064013460800     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libstdc++.so.6.0.25
+2b601b06a000-2b601b06d000 rw-p 00000000 00:00 0 
+2b601b06d000-2b601b0a3000 r-xp 00000000 138:bbcd0 144144064013477350     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/kiwisolver.cpython-37m-x86_64-linux-gnu.so
+2b601b0a3000-2b601b2a3000 ---p 00036000 138:bbcd0 144144064013477350     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/kiwisolver.cpython-37m-x86_64-linux-gnu.so
+2b601b2a3000-2b601b2a4000 r--p 00036000 138:bbcd0 144144064013477350     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/kiwisolver.cpython-37m-x86_64-linux-gnu.so
+2b601b2a4000-2b601b2a6000 rw-p 00037000 138:bbcd0 144144064013477350     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/kiwisolver.cpython-37m-x86_64-linux-gnu.so
+2b601b2a6000-2b601b326000 rw-p 00000000 00:00 0 
+2b601b326000-2b601b353000 r-xp 00000000 138:bbcd0 144144138353275835     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/_path.cpython-37m-x86_64-linux-gnu.so
+2b601b353000-2b601b553000 ---p 0002d000 138:bbcd0 144144138353275835     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/_path.cpython-37m-x86_64-linux-gnu.so
+2b601b553000-2b601b554000 rw-p 0002d000 138:bbcd0 144144138353275835     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/matplotlib/_path.cpython-37m-x86_64-linux-gnu.so
+2b601b554000-2b601b5d5000 rw-p 00000000 00:00 0 
+2b601b5d5000-2b601b690000 r-xp 00000000 138:bbcd0 144144138353272040     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/window.cpython-37m-x86_64-linux-gnu.so
+2b601b690000-2b601b890000 ---p 000bb000 138:bbcd0 144144138353272040     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/window.cpython-37m-x86_64-linux-gnu.so
+2b601b890000-2b601b898000 rw-p 000bb000 138:bbcd0 144144138353272040     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/window.cpython-37m-x86_64-linux-gnu.so
+2b601b898000-2b601b899000 rw-p 00000000 00:00 0 
+2b601b899000-2b601b8ad000 r-xp 00000000 138:bbcd0 144144138353272033     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/skiplist.cpython-37m-x86_64-linux-gnu.so
+2b601b8ad000-2b601baac000 ---p 00014000 138:bbcd0 144144138353272033     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/skiplist.cpython-37m-x86_64-linux-gnu.so
+2b601baac000-2b601baae000 rw-p 00013000 138:bbcd0 144144138353272033     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/skiplist.cpython-37m-x86_64-linux-gnu.so
+2b601baae000-2b601bb2e000 rw-p 00000000 00:00 0 
+2b601bb2e000-2b601bb6e000 r-xp 00000000 138:bbcd0 144144138353272036     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reduction.cpython-37m-x86_64-linux-gnu.so
+2b601bb6e000-2b601bd6e000 ---p 00040000 138:bbcd0 144144138353272036     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reduction.cpython-37m-x86_64-linux-gnu.so
+2b601bd6e000-2b601bd72000 rw-p 00040000 138:bbcd0 144144138353272036     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reduction.cpython-37m-x86_64-linux-gnu.so
+2b601bd72000-2b601bdab000 r-xp 00000000 138:bbcd0 144144138353272027     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reshape.cpython-37m-x86_64-linux-gnu.so
+2b601bdab000-2b601bfab000 ---p 00039000 138:bbcd0 144144138353272027     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reshape.cpython-37m-x86_64-linux-gnu.so
+2b601bfab000-2b601bfaf000 rw-p 00039000 138:bbcd0 144144138353272027     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/reshape.cpython-37m-x86_64-linux-gnu.so
+2b601bfaf000-2b601c070000 rw-p 00000000 00:00 0 
+2b601c070000-2b601c085000 r-xp 00000000 138:bbcd0 144144138353272046     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/json.cpython-37m-x86_64-linux-gnu.so
+2b601c085000-2b601c285000 ---p 00015000 138:bbcd0 144144138353272046     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/json.cpython-37m-x86_64-linux-gnu.so
+2b601c285000-2b601c286000 rw-p 00015000 138:bbcd0 144144138353272046     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/json.cpython-37m-x86_64-linux-gnu.so
+2b601c286000-2b601c313000 r-xp 00000000 138:bbcd0 144144138353272039     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/parsers.cpython-37m-x86_64-linux-gnu.so
+2b601c313000-2b601c513000 ---p 0008d000 138:bbcd0 144144138353272039     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/parsers.cpython-37m-x86_64-linux-gnu.so
+2b601c513000-2b601c51a000 rw-p 0008d000 138:bbcd0 144144138353272039     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/parsers.cpython-37m-x86_64-linux-gnu.so
+2b601c51a000-2b601c55c000 rw-p 00000000 00:00 0 
+2b601c55c000-2b601c58f000 r-xp 00000000 138:bbcd0 144144138353272038     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/writers.cpython-37m-x86_64-linux-gnu.so
+2b601c58f000-2b601c78e000 ---p 00033000 138:bbcd0 144144138353272038     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/writers.cpython-37m-x86_64-linux-gnu.so
+2b601c78e000-2b601c792000 rw-p 00032000 138:bbcd0 144144138353272038     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/writers.cpython-37m-x86_64-linux-gnu.so
+2b601c792000-2b601c793000 rw-p 00000000 00:00 0 
+2b601c793000-2b601c794000 r-xp 00000000 138:bbcd0 144144138353272331     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/util/_move.cpython-37m-x86_64-linux-gnu.so
+2b601c794000-2b601c994000 ---p 00001000 138:bbcd0 144144138353272331     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/util/_move.cpython-37m-x86_64-linux-gnu.so
+2b601c994000-2b601c995000 rw-p 00001000 138:bbcd0 144144138353272331     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/util/_move.cpython-37m-x86_64-linux-gnu.so
+2b601c995000-2b601c9a6000 r-xp 00000000 138:bbcd0 144144138353271969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_packer.cpython-37m-x86_64-linux-gnu.so
+2b601c9a6000-2b601cba5000 ---p 00011000 138:bbcd0 144144138353271969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_packer.cpython-37m-x86_64-linux-gnu.so
+2b601cba5000-2b601cba7000 rw-p 00010000 138:bbcd0 144144138353271969     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_packer.cpython-37m-x86_64-linux-gnu.so
+2b601cba7000-2b601cbbd000 r-xp 00000000 138:bbcd0 144144138353271972     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_unpacker.cpython-37m-x86_64-linux-gnu.so
+2b601cbbd000-2b601cdbc000 ---p 00016000 138:bbcd0 144144138353271972     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_unpacker.cpython-37m-x86_64-linux-gnu.so
+2b601cdbc000-2b601cdbf000 rw-p 00015000 138:bbcd0 144144138353271972     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/io/msgpack/_unpacker.cpython-37m-x86_64-linux-gnu.so
+2b601cdbf000-2b601ceff000 rw-p 00000000 00:00 0 
+2b601ceff000-2b601cf11000 r-xp 00000000 138:bbcd0 144144138353272029     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/testing.cpython-37m-x86_64-linux-gnu.so
+2b601cf11000-2b601d110000 ---p 00012000 138:bbcd0 144144138353272029     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/testing.cpython-37m-x86_64-linux-gnu.so
+2b601d110000-2b601d112000 rw-p 00011000 138:bbcd0 144144138353272029     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/pandas/_libs/testing.cpython-37m-x86_64-linux-gnu.so
+2b601d112000-2b601d192000 rw-p 00000000 00:00 0 
+2b601d192000-2b601d1a4000 r--p 00000000 138:bbcd0 144144064013498946     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/PIL/_imaging.cpython-37m-x86_64-linux-gnu.so
+2b601d1a4000-2b601d1ef000 r-xp 00012000 138:bbcd0 144144064013498946     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/PIL/_imaging.cpython-37m-x86_64-linux-gnu.so
+2b601d1ef000-2b601d1fd000 r--p 0005d000 138:bbcd0 144144064013498946     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/PIL/_imaging.cpython-37m-x86_64-linux-gnu.so
+2b601d1fd000-2b601d201000 r--p 0006a000 138:bbcd0 144144064013498946     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/PIL/_imaging.cpython-37m-x86_64-linux-gnu.so
+2b601d201000-2b601d204000 rw-p 0006e000 138:bbcd0 144144064013498946     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/PIL/_imaging.cpython-37m-x86_64-linux-gnu.so
+2b601d204000-2b601d205000 rw-p 00000000 00:00 0 
+2b601d205000-2b601d240000 r-xp 00000000 138:bbcd0 144144064013461445     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libjpeg.so.9.2.0
+2b601d240000-2b601d43f000 ---p 0003b000 138:bbcd0 144144064013461445     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libjpeg.so.9.2.0
+2b601d43f000-2b601d440000 r--p 0003a000 138:bbcd0 144144064013461445     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libjpeg.so.9.2.0
+2b601d440000-2b601d441000 rw-p 0003b000 138:bbcd0 144144064013461445     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libjpeg.so.9.2.0
+2b601d441000-2b601d44b000 r--p 00000000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d44b000-2b601d48e000 r-xp 0000a000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d48e000-2b601d4b9000 r--p 0004d000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d4b9000-2b601d4ba000 ---p 00078000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d4ba000-2b601d4be000 r--p 00078000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d4be000-2b601d4bf000 rw-p 0007c000 138:bbcd0 144144064013472231     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libtiff.so.5.4.0
+2b601d4bf000-2b601d4c9000 r--p 00000000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d4c9000-2b601d555000 r-xp 0000a000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d555000-2b601d561000 r--p 00096000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d561000-2b601d562000 ---p 000a2000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d562000-2b601d563000 r--p 000a2000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d563000-2b601d564000 rw-p 000a3000 138:bbcd0 144144064013471266     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/libzstd.so.1.3.7
+2b601d564000-2b601dc24000 rw-p 00000000 00:00 0 
+2b601dc24000-2b601dc25000 ---p 00000000 00:00 0 
+2b601dc25000-2b601e425000 rw-p 00000000 00:00 0 
+2b601e425000-2b601e426000 ---p 00000000 00:00 0 
+2b601e426000-2b601ed66000 rw-p 00000000 00:00 0 
+2b601ed66000-2b601ed67000 ---p 00000000 00:00 0 
+2b601ed67000-2b601f567000 rw-p 00000000 00:00 0 
+2b601f567000-2b601f568000 ---p 00000000 00:00 0 
+2b601f568000-2b601ffe8000 rw-p 00000000 00:00 0 
+2b6020000000-2b6020812000 rw-p 00000000 00:00 0 
+2b6020812000-2b6024000000 ---p 00000000 00:00 0 
+2b6024000000-2b6024021000 rw-p 00000000 00:00 0 
+2b6024021000-2b6028000000 ---p 00000000 00:00 0 
+2b6028000000-2b6028021000 rw-p 00000000 00:00 0 
+2b6028021000-2b602c000000 ---p 00000000 00:00 0 
+2b602c000000-2b602c231000 rw-p 00000000 00:00 0 
+2b602c231000-2b6030000000 ---p 00000000 00:00 0 
+2b6030000000-2b6030001000 ---p 00000000 00:00 0 
+2b6030001000-2b6030841000 rw-p 00000000 00:00 0 
+2b6030841000-2b603084f000 r-xp 00000000 138:bbcd0 144144138353274289     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/_lib/_ccallback_c.cpython-37m-x86_64-linux-gnu.so
+2b603084f000-2b6030a4f000 ---p 0000e000 138:bbcd0 144144138353274289     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/_lib/_ccallback_c.cpython-37m-x86_64-linux-gnu.so
+2b6030a4f000-2b6030a51000 rw-p 0000e000 138:bbcd0 144144138353274289     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/_lib/_ccallback_c.cpython-37m-x86_64-linux-gnu.so
+2b6030a51000-2b6030aa8000 r-xp 00000000 138:bbcd0 144144138353274250     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/_fftpack.cpython-37m-x86_64-linux-gnu.so
+2b6030aa8000-2b6030ca7000 ---p 00057000 138:bbcd0 144144138353274250     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/_fftpack.cpython-37m-x86_64-linux-gnu.so
+2b6030ca7000-2b6030caf000 rw-p 00056000 138:bbcd0 144144138353274250     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/_fftpack.cpython-37m-x86_64-linux-gnu.so
+2b6030caf000-2b6030cb0000 rw-p 00000000 00:00 0 
+2b6030cb0000-2b6030cb1000 rw-p 0005e000 138:bbcd0 144144138353274250     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/_fftpack.cpython-37m-x86_64-linux-gnu.so
+2b6030cb1000-2b6030cb2000 rw-p 0005f000 138:bbcd0 144144138353274250     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/_fftpack.cpython-37m-x86_64-linux-gnu.so
+2b6030cb2000-2b6030da2000 r-xp 00000000 138:bbcd0 144144138353273920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/.libs/libgfortran-ed201abd.so.3.0.0
+2b6030da2000-2b6030fa1000 ---p 000f0000 138:bbcd0 144144138353273920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/.libs/libgfortran-ed201abd.so.3.0.0
+2b6030fa1000-2b6030fa3000 rw-p 000ef000 138:bbcd0 144144138353273920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/.libs/libgfortran-ed201abd.so.3.0.0
+2b6030fa3000-2b6030fa4000 rw-p 00000000 00:00 0 
+2b6030fa4000-2b6030fac000 rw-p 000f2000 138:bbcd0 144144138353273920     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/.libs/libgfortran-ed201abd.so.3.0.0
+2b6030fac000-2b6030fec000 rw-p 00000000 00:00 0 
+2b6030fec000-2b6031000000 r-xp 00000000 138:bbcd0 144144138353274249     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/convolve.cpython-37m-x86_64-linux-gnu.so
+2b6031000000-2b6031200000 ---p 00014000 138:bbcd0 144144138353274249     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/convolve.cpython-37m-x86_64-linux-gnu.so
+2b6031200000-2b6031202000 rw-p 00014000 138:bbcd0 144144138353274249     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/convolve.cpython-37m-x86_64-linux-gnu.so
+2b6031202000-2b6031203000 rw-p 00016000 138:bbcd0 144144138353274249     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/convolve.cpython-37m-x86_64-linux-gnu.so
+2b6031203000-2b6031204000 rw-p 00017000 138:bbcd0 144144138353274249     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/scipy/fftpack/convolve.cpython-37m-x86_64-linux-gnu.so
+2b6031204000-2b6031544000 rw-p 00000000 00:00 0 
+2b6031544000-2b6031545000 ---p 00000000 00:00 0 
+2b6031545000-2b6031d85000 rw-p 00000000 00:00 0 
+2b6031d85000-2b6031ed8000 r-xp 00000000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b6031ed8000-2b60320d8000 ---p 00153000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b60320d8000-2b60320f0000 rw-p 00153000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b60320f0000-2b60320f6000 rw-p 00000000 00:00 0 
+2b60320f6000-2b60320f8000 rw-p 0016b000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b60320f8000-2b60320fa000 rw-p 0016d000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b60320fa000-2b60320fe000 rw-p 0016f000 138:bbcd0 144144138353277164     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/_netCDF4.cpython-37m-x86_64-linux-gnu.so
+2b60320fe000-2b603225b000 r-xp 00000000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b603225b000-2b603245b000 ---p 0015d000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b603245b000-2b6032470000 rw-p 0015d000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b6032470000-2b603247a000 rw-p 00000000 00:00 0 
+2b603247a000-2b6032486000 rw-p 00172000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b6032486000-2b603248e000 rw-p 0017e000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b603248e000-2b6032496000 rw-p 00186000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b6032496000-2b603249e000 rw-p 0018e000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b603249e000-2b60324a6000 rw-p 00196000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b60324a6000-2b60324ae000 rw-p 0019e000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b60324ae000-2b60324b6000 rw-p 001a6000 138:bbcd0 144144138353277169     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libnetcdf-572be852.so.15.0.0
+2b60324b6000-2b60324d7000 r-xp 00000000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60324d7000-2b60326d7000 ---p 00021000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326d7000-2b60326d8000 rw-p 00021000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326d8000-2b60326d9000 rw-p 00000000 00:00 0 
+2b60326d9000-2b60326db000 rw-p 00023000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326db000-2b60326dd000 rw-p 00025000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326dd000-2b60326df000 rw-p 00027000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326df000-2b60326e1000 rw-p 00029000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326e1000-2b60326e3000 rw-p 0002b000 138:bbcd0 144144138353277170     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5_hl-d68fbc5b.so.100.1.0
+2b60326e3000-2b6032a80000 r-xp 00000000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032a80000-2b6032c80000 ---p 0039d000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032c80000-2b6032c92000 rw-p 0039d000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032c92000-2b6032c94000 rw-p 00000000 00:00 0 
+2b6032c94000-2b6032ca8000 rw-p 003af000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032ca8000-2b6032cb6000 rw-p 003c3000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032cb6000-2b6032cc4000 rw-p 003d1000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032cc4000-2b6032cd2000 rw-p 003df000 138:bbcd0 144144138353277175     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libhdf5-6ba250d7.so.101.1.0
+2b6032cd2000-2b6032cd4000 r-xp 00000000 138:bbcd0 144144138353277173     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libsz-1c7dd0cf.so.2.0.1
+2b6032cd4000-2b6032ed3000 ---p 00002000 138:bbcd0 144144138353277173     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libsz-1c7dd0cf.so.2.0.1
+2b6032ed3000-2b6032ed4000 rw-p 00001000 138:bbcd0 144144138353277173     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libsz-1c7dd0cf.so.2.0.1
+2b6032ed4000-2b6032ed5000 rw-p 00002000 138:bbcd0 144144138353277173     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libsz-1c7dd0cf.so.2.0.1
+2b6032ed5000-2b6032ed6000 rw-p 00003000 138:bbcd0 144144138353277173     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libsz-1c7dd0cf.so.2.0.1
+2b6032ed6000-2b6032ede000 r-xp 00000000 138:bbcd0 144144138353277172     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libaec-2147abcd.so.0.0.4
+2b6032ede000-2b60330dd000 ---p 00008000 138:bbcd0 144144138353277172     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libaec-2147abcd.so.0.0.4
+2b60330dd000-2b60330de000 rw-p 00007000 138:bbcd0 144144138353277172     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libaec-2147abcd.so.0.0.4
+2b60330de000-2b60330df000 rw-p 00009000 138:bbcd0 144144138353277172     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libaec-2147abcd.so.0.0.4
+2b60330df000-2b6033388000 r-xp 00000000 138:bbcd0 144144138353277174     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libcurl-40c9559a.so.4.5.0
+2b6033388000-2b6033587000 ---p 002a9000 138:bbcd0 144144138353277174     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libcurl-40c9559a.so.4.5.0
+2b6033587000-2b60335b9000 rw-p 002a8000 138:bbcd0 144144138353277174     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libcurl-40c9559a.so.4.5.0
+2b60335b9000-2b60335be000 rw-p 00000000 00:00 0 
+2b60335be000-2b60335bf000 rw-p 0032f000 138:bbcd0 144144138353277174     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libcurl-40c9559a.so.4.5.0
+2b60335bf000-2b60335c0000 rw-p 00330000 138:bbcd0 144144138353277174     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libcurl-40c9559a.so.4.5.0
+2b60335c0000-2b60335d4000 r-xp 00000000 138:bbcd0 144144138353277171     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libz-a147dcb0.so.1.2.3
+2b60335d4000-2b60337d3000 ---p 00014000 138:bbcd0 144144138353277171     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libz-a147dcb0.so.1.2.3
+2b60337d3000-2b60337d4000 rw-p 00013000 138:bbcd0 144144138353277171     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libz-a147dcb0.so.1.2.3
+2b60337d4000-2b60337d5000 rw-p 00015000 138:bbcd0 144144138353277171     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/netCDF4/.libs/libz-a147dcb0.so.1.2.3
+2b60337d5000-2b6033855000 rw-p 00000000 00:00 0 
+2b6033855000-2b6033903000 r-xp 00000000 138:bbcd0 144144138353277150     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cftime/_cftime.cpython-37m-x86_64-linux-gnu.so
+2b6033903000-2b6033b02000 ---p 000ae000 138:bbcd0 144144138353277150     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cftime/_cftime.cpython-37m-x86_64-linux-gnu.so
+2b6033b02000-2b6033b0d000 rw-p 000ad000 138:bbcd0 144144138353277150     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/cftime/_cftime.cpython-37m-x86_64-linux-gnu.so
+2b6033b0d000-2b6033fd1000 rw-p 00000000 00:00 0 
+2b6034000000-2b6034021000 rw-p 00000000 00:00 0 
+2b6034021000-2b6038000000 ---p 00000000 00:00 0 
+2b6038000000-2b603bf13000 rw-p 00000000 00:00 0 
+2b603bf13000-2b603c000000 ---p 00000000 00:00 0 
+2b603c000000-2b603ca80000 rw-p 00000000 00:00 0 
+2b603ca80000-2b603ca93000 r--p 00000000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603ca93000-2b603cb42000 r-xp 00013000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603cb42000-2b603cb5a000 r--p 000c2000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603cb5a000-2b603cb5b000 ---p 000da000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603cb5b000-2b603cb5d000 r--p 000da000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603cb5d000-2b603cb60000 rw-p 000dc000 138:bbcd0 144144119059537066     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/blosc.cpython-37m-x86_64-linux-gnu.so
+2b603cb60000-2b603cb61000 rw-p 00000000 00:00 0 
+2b603cb61000-2b603cb6d000 r--p 00000000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cb6d000-2b603cbe6000 r-xp 0000c000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cbe6000-2b603cbf4000 r--p 00085000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cbf4000-2b603cbf5000 ---p 00093000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cbf5000-2b603cbf6000 r--p 00093000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cbf6000-2b603cbf8000 rw-p 00094000 138:bbcd0 144144119059537065     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/zstd.cpython-37m-x86_64-linux-gnu.so
+2b603cbf8000-2b603cbfe000 r--p 00000000 138:bbcd0 144144119059537063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/lz4.cpython-37m-x86_64-linux-gnu.so
+2b603cbfe000-2b603cc22000 r-xp 00006000 138:bbcd0 144144119059537063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/lz4.cpython-37m-x86_64-linux-gnu.so
+2b603cc22000-2b603cc26000 r--p 0002a000 138:bbcd0 144144119059537063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/lz4.cpython-37m-x86_64-linux-gnu.so
+2b603cc26000-2b603cc27000 r--p 0002d000 138:bbcd0 144144119059537063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/lz4.cpython-37m-x86_64-linux-gnu.so
+2b603cc27000-2b603cc29000 rw-p 0002e000 138:bbcd0 144144119059537063     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/lz4.cpython-37m-x86_64-linux-gnu.so
+2b603cc29000-2b603cc31000 r--p 00000000 138:bbcd0 144144119059537064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/vlen.cpython-37m-x86_64-linux-gnu.so
+2b603cc31000-2b603cc58000 r-xp 00008000 138:bbcd0 144144119059537064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/vlen.cpython-37m-x86_64-linux-gnu.so
+2b603cc58000-2b603cc60000 r--p 0002f000 138:bbcd0 144144119059537064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/vlen.cpython-37m-x86_64-linux-gnu.so
+2b603cc60000-2b603cc61000 r--p 00036000 138:bbcd0 144144119059537064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/vlen.cpython-37m-x86_64-linux-gnu.so
+2b603cc61000-2b603cc65000 rw-p 00037000 138:bbcd0 144144119059537064     /scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numcodecs/vlen.cpython-37m-x86_64-linux-gnu.so
+2b603cc65000-2b603e965000 rw-p 00000000 00:00 0 
+2b6040000000-2b6044000000 rw-p 00000000 00:00 0 
+55f5c176a000-55f5c17c5000 r--p 00000000 138:bbcd0 144144119059537358     /scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python3.7
+55f5c17c5000-55f5c19a6000 r-xp 0005b000 138:bbcd0 144144119059537358     /scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python3.7
+55f5c19a6000-55f5c1a4d000 r--p 0023c000 138:bbcd0 144144119059537358     /scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python3.7
+55f5c1a4e000-55f5c1a51000 r--p 002e3000 138:bbcd0 144144119059537358     /scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python3.7
+55f5c1a51000-55f5c1aba000 rw-p 002e6000 138:bbcd0 144144119059537358     /scratch/cnt0024/hmg2840/albert7a/anaconda3/bin/python3.7
+55f5c1aba000-55f5c1adb000 rw-p 00000000 00:00 0 
+55f5c38d5000-55f5c4129000 rw-p 00000000 00:00 0                          [heap]
+55f5c4129000-55f5c6d40000 rw-p 00000000 00:00 0                          [heap]
+7ffc38665000-7ffc38689000 rw-p 00000000 00:00 0                          [stack]
+7ffc38723000-7ffc38725000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/multiprocessing/semaphore_tracker.py:144: UserWarning: semaphore_tracker: There appear to be 1 leaked semaphores to clean up at shutdown
+  len(cache))
+distributed.nanny - WARNING - Worker process 11912 was killed by signal 6
+distributed.nanny - WARNING - Restarting worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.203:41699
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.203:41699
+distributed.worker - INFO -          dashboard at:         172.30.8.203:37363
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/worker-xsqbjgi0
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:34418
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:43679
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:36420
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:33422
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:44364
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:35967
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:43654
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:39060
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:38863
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:42591
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:35880
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:44978
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:44316
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:44714
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:34362
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:45165
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:38795
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:46490
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:34621
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:41699
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:39308
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:37452
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:37070
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:44652
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:33312
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:41867
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:34418'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:34079
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:35843
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.203:38633
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:37934'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:44282'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:38399'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:35166'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:44426'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:37933'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:37413'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:41866'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:38997'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:42828'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:38210'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:38879'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:35809'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:44514'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:43053'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:32975'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:33352'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:36796'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:45055'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:40524'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:44509'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:44259'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:35818'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:39169'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:41448'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:33487'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:40430'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.203:45009'
+distributed.dask_worker - INFO - End worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,

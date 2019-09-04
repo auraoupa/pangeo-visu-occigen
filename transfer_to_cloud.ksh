@@ -16,3 +16,10 @@ gsutil -m cp -r /mnt/alberta/equipes/IGE/meom/workdir/albert/NATL60/NATL60-CJM16
 gsutil -m cp -r /mnt/alberta/equipes/IGE/meom/workdir/albert/NATL60/NATL60-CJM165-S/1h/SSU/zarr/NATL60-CJM165-SSU-1h-1m2deg2deg gs://pangeo-data/
 
 gsutil -m cp -r /mnt/alberta/equipes/IGE/meom/workdir/albert/NATL60/NATL60-CJM165-S/1h/SSV/zarr/NATL60-CJM165-SSV-1h-1m2deg2deg gs://pangeo-data/
+
+
+gsutil -m cp -r /mnt/alberta/equipes/IGE/meom/workdir/albert/eNATL60/eNATL60-I/zarr_mesh_zgr_eNATL60_3.6 gs://pangeo-data/eNATL60-I/
+
+
+gsutil -m cp /mnt/alberta/equipes/IGE/meom/workdir/albert/eNATL60/eNATL60-I/mesh_zgr_eNATL60_3.6.nc gs://pangeo-data/eNATL60-I/
+
